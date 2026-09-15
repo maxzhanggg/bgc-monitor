@@ -54,7 +54,9 @@ class TestModeMonitor:
     """
 
     def __init__(self):
-        print("🔧 初始化测试模式监控器...")
+        import sys
+        # Railway环境：使用sys.stdout确保输出不被关闭
+        self._log("🔧 初始化测试模式监控器...")
 
         # 加载核心数据（不会被清空）
         self.watchlist = load_watchlist()
@@ -62,9 +64,18 @@ class TestModeMonitor:
         self.prepump_exclusions = load_prepump_exclusions()
         self.liquidity_tiers = load_liquidity_tiers()
 
-        print(f"✅ 加载 {len(self.watchlist)} 只股票")
-        print(f"✅ 加载 {len(self.baselines)} 条baseline")
-        print(f"✅ 排除 {len(self.prepump_exclusions)} 只prepump股票")
+        self._log(f"✅ 加载 {len(self.watchlist)} 只股票")
+        self._log(f"✅ 加载 {len(self.baselines)} 条baseline")
+        self._log(f"✅ 排除 {len(self.prepump_exclusions)} 只prepump股票")
+
+    def _log(self, msg):
+        """安全日志输出（Railway/Streamlit兼容）"""
+        try:
+            import sys
+            sys.stdout.write(f"{msg}\n")
+            sys.stdout.flush()
+        except:
+            pass  # 静默失败，不影响初始化
 
         # 测试数据（可清空）
         self.test_signals = []  # 当前活跃信号
@@ -150,7 +161,7 @@ class TestModeMonitor:
                         self._create_test_position(signal)
 
             except Exception as e:
-                print(f"⚠️ 检测{ticker}信号时出错: {e}")
+                self._log(f"⚠️ 检测{ticker}信号时出错: {e}")
                 continue
 
         # 更新当前活跃信号列表
@@ -176,7 +187,7 @@ class TestModeMonitor:
                     live_data_list.append((ticker, market, quotes_dict[full_ticker]))
 
         except Exception as e:
-            print(f"⚠️ 获取实时数据失败: {e}")
+            self._log(f"⚠️ 获取实时数据失败: {e}")
 
         return live_data_list
 
@@ -212,7 +223,7 @@ class TestModeMonitor:
         }
 
         self.test_positions.append(position)
-        print(f"📝 创建测试持仓: {signal['ticker']} Tier{signal['tier']} ${signal['allocation']:,}")
+        self._log(f"📝 创建测试持仓: {signal['ticker']} Tier{signal['tier']} ${signal['allocation']:,}")
 
     def update_test_positions(self, current_prices_dict):
         """
@@ -300,17 +311,17 @@ class TestModeMonitor:
 
         ⚠️ 重要: 不清空baseline！
         """
-        print("\n" + "="*60)
-        print("🧹 开始清空测试数据...")
-        print("="*60)
+        self._log("\n" + "="*60)
+        self._log("🧹 开始清空测试数据...")
+        self._log("="*60)
 
         # 统计清空前数据
         stats = self.get_test_statistics()
-        print(f"\n清空前统计:")
-        print(f"  - 累计扫描: {stats['total_scans']} 次")
-        print(f"  - 累计持仓: {stats['total_positions']} 个")
-        print(f"  - 当前持仓: {stats['open_positions']} 个")
-        print(f"  - 按Tier: {stats['positions_by_tier']}")
+        self._log(f"\n清空前统计:")
+        self._log(f"  - 累计扫描: {stats['total_scans']} 次")
+        self._log(f"  - 累计持仓: {stats['total_positions']} 个")
+        self._log(f"  - 当前持仓: {stats['open_positions']} 个")
+        self._log(f"  - 按Tier: {stats['positions_by_tier']}")
 
         # ✅ 清空测试数据
         self.test_signals = []
@@ -319,11 +330,11 @@ class TestModeMonitor:
         self.total_scans = 0
         self.last_scan_time = None
 
-        print(f"\n✅ 已清空:")
-        print(f"  - test_signals (实时信号)")
-        print(f"  - test_positions (虚拟持仓)")
-        print(f"  - vol_history (成交量历史)")
-        print(f"  - 扫描计数器")
+        self._log(f"\n✅ 已清空:")
+        self._log(f"  - test_signals (实时信号)")
+        self._log(f"  - test_positions (虚拟持仓)")
+        self._log(f"  - vol_history (成交量历史)")
+        self._log(f"  - 扫描计数器")
 
         # ❌ 不清空核心数据
         print(f"\n❌ 保持不变:")
