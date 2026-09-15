@@ -10,11 +10,19 @@ build/
 .pytest_cache/
 .coverage
 
-# Data and logs
+# Data and logs - exclude sensitive/generated files only
 data/access_requests.json
+data/access_control.json
+data/positions.json
+data/signals_history/*.json
+data/daily_snapshots/
+data/alerts/
 *.log
-*.csv
 *.parquet
+
+# BUT include essential baseline data
+!data/processed/*.json
+!data/processed/*.csv
 
 # Environment
 .env

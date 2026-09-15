@@ -1,0 +1,4262 @@
+{
+  "AAI": {
+    "short_term": {
+      "median_volume": 2569714.0,
+      "mad": 1265078.5,
+      "mean_volume": 2696564.3,
+      "std": 1468005.6322334986
+    },
+    "long_term": {
+      "median_volume": 2569714.0,
+      "mad": 1265078.5,
+      "mean_volume": 2696564.3,
+      "std": 1468005.6322334986
+    },
+    "price_stats": {
+      "median_price": 4.0600000000000005,
+      "mean_price": 4.052
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "AALI": {
+    "short_term": {
+      "median_volume": 1578400.0,
+      "mad": 499350.0,
+      "mean_volume": 1796240,
+      "std": 870096.0687430471
+    },
+    "long_term": {
+      "median_volume": 1578400.0,
+      "mad": 499350.0,
+      "mean_volume": 1796240,
+      "std": 870096.0687430471
+    },
+    "price_stats": {
+      "median_price": 8212.5,
+      "mean_price": 8177.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AAV": {
+    "short_term": {
+      "median_volume": 14202521.5,
+      "mad": 6702054.5,
+      "mean_volume": 19470640.9,
+      "std": 19068334.20941894
+    },
+    "long_term": {
+      "median_volume": 14202521.5,
+      "mad": 6702054.5,
+      "mean_volume": 19470640.9,
+      "std": 19068334.20941894
+    },
+    "price_stats": {
+      "median_price": 1.03,
+      "mean_price": 1.022
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ABMM": {
+    "short_term": {
+      "median_volume": 657750.0,
+      "mad": 221050.0,
+      "mean_volume": 684785,
+      "std": 343756.8866678586
+    },
+    "long_term": {
+      "median_volume": 657750.0,
+      "mad": 221050.0,
+      "mean_volume": 684785,
+      "std": 343756.8866678586
+    },
+    "price_stats": {
+      "median_price": 2755.0,
+      "mean_price": 2775.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ACE": {
+    "short_term": {
+      "median_volume": 874412.5,
+      "mad": 285252.5,
+      "mean_volume": 1434550.15,
+      "std": 1902385.6841467926
+    },
+    "long_term": {
+      "median_volume": 874412.5,
+      "mad": 285252.5,
+      "mean_volume": 1434550.15,
+      "std": 1902385.6841467926
+    },
+    "price_stats": {
+      "median_price": 1.31,
+      "mean_price": 1.307
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ACES": {
+    "short_term": {
+      "median_volume": 17346950.0,
+      "mad": 7080900.0,
+      "mean_volume": 22058575,
+      "std": 15083628.166147735
+    },
+    "long_term": {
+      "median_volume": 17346950.0,
+      "mad": 7080900.0,
+      "mean_volume": 22058575,
+      "std": 15083628.166147735
+    },
+    "price_stats": {
+      "median_price": 356.0,
+      "mean_price": 356.3
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ADMR": {
+    "short_term": {
+      "median_volume": 36362900.0,
+      "mad": 9350900.0,
+      "mean_volume": 40162190,
+      "std": 20647863.008168794
+    },
+    "long_term": {
+      "median_volume": 36362900.0,
+      "mad": 9350900.0,
+      "mean_volume": 40162190,
+      "std": 20647863.008168794
+    },
+    "price_stats": {
+      "median_price": 1675.0,
+      "mean_price": 1664.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ADRO": {
+    "short_term": {
+      "median_volume": 38962050.0,
+      "mad": 15095000.0,
+      "mean_volume": 47576795,
+      "std": 28543827.218091995
+    },
+    "long_term": {
+      "median_volume": 38962050.0,
+      "mad": 15095000.0,
+      "mean_volume": 47576795,
+      "std": 28543827.218091995
+    },
+    "price_stats": {
+      "median_price": 2660.0,
+      "mean_price": 2656.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AEONTS": {
+    "short_term": {
+      "median_volume": 319690.0,
+      "mad": 101080.0,
+      "mean_volume": 387178.25,
+      "std": 175241.5937738752
+    },
+    "long_term": {
+      "median_volume": 319690.0,
+      "mad": 101080.0,
+      "mean_volume": 387178.25,
+      "std": 175241.5937738752
+    },
+    "price_stats": {
+      "median_price": 99.75,
+      "mean_price": 99.95
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "AKRA": {
+    "short_term": {
+      "median_volume": 13513850.0,
+      "mad": 5315450.0,
+      "mean_volume": 19389855,
+      "std": 14144169.673885345
+    },
+    "long_term": {
+      "median_volume": 13513850.0,
+      "mad": 5315450.0,
+      "mean_volume": 19389855,
+      "std": 14144169.673885345
+    },
+    "price_stats": {
+      "median_price": 1400.0,
+      "mean_price": 1429.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ALII": {
+    "short_term": {
+      "median_volume": 647050.0,
+      "mad": 215750.0,
+      "mean_volume": 748085,
+      "std": 362457.5623435108
+    },
+    "long_term": {
+      "median_volume": 647050.0,
+      "mad": 215750.0,
+      "mean_volume": 748085,
+      "std": 362457.5623435108
+    },
+    "price_stats": {
+      "median_price": 792.5,
+      "mean_price": 791.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AMATA": {
+    "short_term": {
+      "median_volume": 6969822.0,
+      "mad": 3454580.5,
+      "mean_volume": 8760857.4,
+      "std": 8152938.281165375
+    },
+    "long_term": {
+      "median_volume": 6969822.0,
+      "mad": 3454580.5,
+      "mean_volume": 8760857.4,
+      "std": 8152938.281165375
+    },
+    "price_stats": {
+      "median_price": 32.375,
+      "mean_price": 31.925
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "AP": {
+    "short_term": {
+      "median_volume": 7546367.0,
+      "mad": 2028700.5,
+      "mean_volume": 8663371.4,
+      "std": 3981833.635811725
+    },
+    "long_term": {
+      "median_volume": 7546367.0,
+      "mad": 2028700.5,
+      "mean_volume": 8663371.4,
+      "std": 3981833.635811725
+    },
+    "price_stats": {
+      "median_price": 8.15,
+      "mean_price": 8.14
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "APIC": {
+    "short_term": {
+      "median_volume": 841800.0,
+      "mad": 256100.0,
+      "mean_volume": 1194570,
+      "std": 808802.0414233179
+    },
+    "long_term": {
+      "median_volume": 841800.0,
+      "mad": 256100.0,
+      "mean_volume": 1194570,
+      "std": 808802.0414233179
+    },
+    "price_stats": {
+      "median_price": 515.0,
+      "mean_price": 520.1
+    },
+    "days_count": 26,
+    "last_date": "2026-09-14"
+  },
+  "ARCI": {
+    "short_term": {
+      "median_volume": 47414050.0,
+      "mad": 19200400.0,
+      "mean_volume": 53921130,
+      "std": 24671298.485041276
+    },
+    "long_term": {
+      "median_volume": 47414050.0,
+      "mad": 19200400.0,
+      "mean_volume": 53921130,
+      "std": 24671298.485041276
+    },
+    "price_stats": {
+      "median_price": 1327.5,
+      "mean_price": 1338.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ARKO": {
+    "short_term": {
+      "median_volume": 3206150.0,
+      "mad": 739100.0,
+      "mean_volume": 4463755,
+      "std": 2974130.0172398933
+    },
+    "long_term": {
+      "median_volume": 3206150.0,
+      "mad": 739100.0,
+      "mean_volume": 4463755,
+      "std": 2974130.0172398933
+    },
+    "price_stats": {
+      "median_price": 4930.0,
+      "mean_price": 4963.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ARTO": {
+    "short_term": {
+      "median_volume": 19426250.0,
+      "mad": 5365950.0,
+      "mean_volume": 27997710,
+      "std": 28001202.828560963
+    },
+    "long_term": {
+      "median_volume": 19426250.0,
+      "mad": 5365950.0,
+      "mean_volume": 27997710,
+      "std": 28001202.828560963
+    },
+    "price_stats": {
+      "median_price": 1017.5,
+      "mean_price": 1031.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AURA": {
+    "short_term": {
+      "median_volume": 1917339.5,
+      "mad": 1194180.5,
+      "mean_volume": 2595303.55,
+      "std": 1966108.3110386385
+    },
+    "long_term": {
+      "median_volume": 1917339.5,
+      "mad": 1194180.5,
+      "mean_volume": 2595303.55,
+      "std": 1966108.3110386385
+    },
+    "price_stats": {
+      "median_price": 14.1,
+      "mean_price": 14.05
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "AUTO": {
+    "short_term": {
+      "median_volume": 3641000.0,
+      "mad": 1850400.0,
+      "mean_volume": 5364285,
+      "std": 4255048.4042364005
+    },
+    "long_term": {
+      "median_volume": 3641000.0,
+      "mad": 1850400.0,
+      "mean_volume": 5364285,
+      "std": 4255048.4042364005
+    },
+    "price_stats": {
+      "median_price": 3320.0,
+      "mean_price": 3229.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AVIA": {
+    "short_term": {
+      "median_volume": 11732750.0,
+      "mad": 2261500.0,
+      "mean_volume": 14415070,
+      "std": 9484459.315227754
+    },
+    "long_term": {
+      "median_volume": 11732750.0,
+      "mad": 2261500.0,
+      "mean_volume": 14415070,
+      "std": 9484459.315227754
+    },
+    "price_stats": {
+      "median_price": 356.0,
+      "mean_price": 358.4
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "AWC": {
+    "short_term": {
+      "median_volume": 44975275.0,
+      "mad": 12811468.5,
+      "mean_volume": 53349192.4,
+      "std": 24956431.65266635
+    },
+    "long_term": {
+      "median_volume": 44975275.0,
+      "mad": 12811468.5,
+      "mean_volume": 53349192.4,
+      "std": 24956431.65266635
+    },
+    "price_stats": {
+      "median_price": 3.0,
+      "mean_price": 3.025
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BA": {
+    "short_term": {
+      "median_volume": 6562936.0,
+      "mad": 1473511.0,
+      "mean_volume": 7026259.3,
+      "std": 2980357.50170161
+    },
+    "long_term": {
+      "median_volume": 6562936.0,
+      "mad": 1473511.0,
+      "mean_volume": 7026259.3,
+      "std": 2980357.50170161
+    },
+    "price_stats": {
+      "median_price": 19.05,
+      "mean_price": 18.98
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BANK": {
+    "short_term": {
+      "median_volume": 2575800.0,
+      "mad": 1195350.0,
+      "mean_volume": 3627625,
+      "std": 2862273.116519916
+    },
+    "long_term": {
+      "median_volume": 2575800.0,
+      "mad": 1195350.0,
+      "mean_volume": 3627625,
+      "std": 2862273.116519916
+    },
+    "price_stats": {
+      "median_price": 270.0,
+      "mean_price": 270.4
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "BBKP": {
+    "short_term": {
+      "median_volume": 66292550.0,
+      "mad": 25138900.0,
+      "mean_volume": 71851325,
+      "std": 39414391.691265516
+    },
+    "long_term": {
+      "median_volume": 66292550.0,
+      "mad": 25138900.0,
+      "mean_volume": 71851325,
+      "std": 39414391.691265516
+    },
+    "price_stats": {
+      "median_price": 54.0,
+      "mean_price": 54.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BBTN": {
+    "short_term": {
+      "median_volume": 15424750.0,
+      "mad": 6339700.0,
+      "mean_volume": 17440145,
+      "std": 8129567.350660246
+    },
+    "long_term": {
+      "median_volume": 15424750.0,
+      "mad": 6339700.0,
+      "mean_volume": 17440145,
+      "std": 8129567.350660246
+    },
+    "price_stats": {
+      "median_price": 1220.0,
+      "mean_price": 1222.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BCH": {
+    "short_term": {
+      "median_volume": 6000899.0,
+      "mad": 1731239.5,
+      "mean_volume": 7927193.2,
+      "std": 6054080.6096467795
+    },
+    "long_term": {
+      "median_volume": 6000899.0,
+      "mad": 1731239.5,
+      "mean_volume": 7927193.2,
+      "std": 6054080.6096467795
+    },
+    "price_stats": {
+      "median_price": 11.05,
+      "mean_price": 11.09
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BCPG": {
+    "short_term": {
+      "median_volume": 6063959.0,
+      "mad": 2689961.0,
+      "mean_volume": 6688856.4,
+      "std": 3988442.704390147
+    },
+    "long_term": {
+      "median_volume": 6063959.0,
+      "mad": 2689961.0,
+      "mean_volume": 6688856.4,
+      "std": 3988442.704390147
+    },
+    "price_stats": {
+      "median_price": 7.2,
+      "mean_price": 7.2225
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BFIN": {
+    "short_term": {
+      "median_volume": 18879100.0,
+      "mad": 7201700.0,
+      "mean_volume": 23862005,
+      "std": 14807619.910014147
+    },
+    "long_term": {
+      "median_volume": 18879100.0,
+      "mad": 7201700.0,
+      "mean_volume": 23862005,
+      "std": 14807619.910014147
+    },
+    "price_stats": {
+      "median_price": 940.0,
+      "mean_price": 944.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BGRIM": {
+    "short_term": {
+      "median_volume": 27654616.5,
+      "mad": 10128421.0,
+      "mean_volume": 35088705.85,
+      "std": 21875029.645792846
+    },
+    "long_term": {
+      "median_volume": 27654616.5,
+      "mad": 10128421.0,
+      "mean_volume": 35088705.85,
+      "std": 21875029.645792846
+    },
+    "price_stats": {
+      "median_price": 19.6,
+      "mean_price": 19.605
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BIPI": {
+    "short_term": {
+      "median_volume": 451624950.0,
+      "mad": 154587250.0,
+      "mean_volume": 698248755,
+      "std": 826968660.6891146
+    },
+    "long_term": {
+      "median_volume": 451624950.0,
+      "mad": 154587250.0,
+      "mean_volume": 698248755,
+      "std": 826968660.6891146
+    },
+    "price_stats": {
+      "median_price": 148.5,
+      "mean_price": 148.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BJBR": {
+    "short_term": {
+      "median_volume": 2072100.0,
+      "mad": 734050.0,
+      "mean_volume": 2572685,
+      "std": 1421523.9455098512
+    },
+    "long_term": {
+      "median_volume": 2072100.0,
+      "mad": 734050.0,
+      "mean_volume": 2572685,
+      "std": 1421523.9455098512
+    },
+    "price_stats": {
+      "median_price": 795.0,
+      "mean_price": 794.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BJC": {
+    "short_term": {
+      "median_volume": 8192095.0,
+      "mad": 1434149.5,
+      "mean_volume": 11416812,
+      "std": 8830058.029304242
+    },
+    "long_term": {
+      "median_volume": 8192095.0,
+      "mad": 1434149.5,
+      "mean_volume": 11416812,
+      "std": 8830058.029304242
+    },
+    "price_stats": {
+      "median_price": 16.45,
+      "mean_price": 16.285
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BJTM": {
+    "short_term": {
+      "median_volume": 4512050.0,
+      "mad": 1178000.0,
+      "mean_volume": 5023145,
+      "std": 2087173.9522176366
+    },
+    "long_term": {
+      "median_volume": 4512050.0,
+      "mad": 1178000.0,
+      "mean_volume": 5023145,
+      "std": 2087173.9522176366
+    },
+    "price_stats": {
+      "median_price": 522.5,
+      "mean_price": 523.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BKSL": {
+    "short_term": {
+      "median_volume": 144982350.0,
+      "mad": 25152700.0,
+      "mean_volume": 208061480,
+      "std": 159741449.46657297
+    },
+    "long_term": {
+      "median_volume": 144982350.0,
+      "mad": 25152700.0,
+      "mean_volume": 208061480,
+      "std": 159741449.46657297
+    },
+    "price_stats": {
+      "median_price": 75.0,
+      "mean_price": 74.65
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BLA": {
+    "short_term": {
+      "median_volume": 1741410.0,
+      "mad": 660861.0,
+      "mean_volume": 1980029.1,
+      "std": 1182291.559096366
+    },
+    "long_term": {
+      "median_volume": 1741410.0,
+      "mad": 660861.0,
+      "mean_volume": 1980029.1,
+      "std": 1182291.559096366
+    },
+    "price_stats": {
+      "median_price": 24.35,
+      "mean_price": 24.355
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BRIS": {
+    "short_term": {
+      "median_volume": 16572250.0,
+      "mad": 4281250.0,
+      "mean_volume": 16837875,
+      "std": 6649320.024584627
+    },
+    "long_term": {
+      "median_volume": 16572250.0,
+      "mad": 4281250.0,
+      "mean_volume": 16837875,
+      "std": 6649320.024584627
+    },
+    "price_stats": {
+      "median_price": 1782.5,
+      "mean_price": 1777.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BSDE": {
+    "short_term": {
+      "median_volume": 20440000.0,
+      "mad": 6678500.0,
+      "mean_volume": 25971675,
+      "std": 28274660.47118729
+    },
+    "long_term": {
+      "median_volume": 20440000.0,
+      "mad": 6678500.0,
+      "mean_volume": 25971675,
+      "std": 28274660.47118729
+    },
+    "price_stats": {
+      "median_price": 645.0,
+      "mean_price": 643.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BTG": {
+    "short_term": {
+      "median_volume": 4194852.0,
+      "mad": 1572807.5,
+      "mean_volume": 4958806.9,
+      "std": 3059043.2942568636
+    },
+    "long_term": {
+      "median_volume": 4194852.0,
+      "mad": 1572807.5,
+      "mean_volume": 4958806.9,
+      "std": 3059043.2942568636
+    },
+    "price_stats": {
+      "median_price": 20.799999999999997,
+      "mean_price": 20.84
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BTPS": {
+    "short_term": {
+      "median_volume": 2710100.0,
+      "mad": 699700.0,
+      "mean_volume": 2972335,
+      "std": 1704509.9778235385
+    },
+    "long_term": {
+      "median_volume": 2710100.0,
+      "mad": 699700.0,
+      "mean_volume": 2972335,
+      "std": 1704509.9778235385
+    },
+    "price_stats": {
+      "median_price": 990.0,
+      "mean_price": 1009.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BTS": {
+    "short_term": {
+      "median_volume": 15868350.5,
+      "mad": 6064119.5,
+      "mean_volume": 23928432.95,
+      "std": 27237357.403674465
+    },
+    "long_term": {
+      "median_volume": 15868350.5,
+      "mad": 6064119.5,
+      "mean_volume": 23928432.95,
+      "std": 27237357.403674465
+    },
+    "price_stats": {
+      "median_price": 2.06,
+      "mean_price": 2.057
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "BUKA": {
+    "short_term": {
+      "median_volume": 107030400.0,
+      "mad": 45472500.0,
+      "mean_volume": 216933495,
+      "std": 399925468.0731694
+    },
+    "long_term": {
+      "median_volume": 107030400.0,
+      "mad": 45472500.0,
+      "mean_volume": 216933495,
+      "std": 399925468.0731694
+    },
+    "price_stats": {
+      "median_price": 113.0,
+      "mean_price": 111.55
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BULL": {
+    "short_term": {
+      "median_volume": 362678000.0,
+      "mad": 97952350.0,
+      "mean_volume": 453805140,
+      "std": 338797325.8622801
+    },
+    "long_term": {
+      "median_volume": 362678000.0,
+      "mad": 97952350.0,
+      "mean_volume": 453805140,
+      "std": 338797325.8622801
+    },
+    "price_stats": {
+      "median_price": 437.0,
+      "mean_price": 439.4
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "BUVA": {
+    "short_term": {
+      "median_volume": 69448350.0,
+      "mad": 16112500.0,
+      "mean_volume": 86963530,
+      "std": 58703662.76721088
+    },
+    "long_term": {
+      "median_volume": 69448350.0,
+      "mad": 16112500.0,
+      "mean_volume": 86963530,
+      "std": 58703662.76721088
+    },
+    "price_stats": {
+      "median_price": 735.0,
+      "mean_price": 740.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CARE": {
+    "short_term": {
+      "median_volume": 161200.0,
+      "mad": 56250.0,
+      "mean_volume": 314195,
+      "std": 431130.7805917877
+    },
+    "long_term": {
+      "median_volume": 161200.0,
+      "mad": 56250.0,
+      "mean_volume": 314195,
+      "std": 431130.7805917877
+    },
+    "price_stats": {
+      "median_price": 437.0,
+      "mean_price": 432.6
+    },
+    "days_count": 27,
+    "last_date": "2026-09-14"
+  },
+  "CBDK": {
+    "short_term": {
+      "median_volume": 2466250.0,
+      "mad": 1173500.0,
+      "mean_volume": 3081755,
+      "std": 2455393.499276536
+    },
+    "long_term": {
+      "median_volume": 2466250.0,
+      "mad": 1173500.0,
+      "mean_volume": 3081755,
+      "std": 2455393.499276536
+    },
+    "price_stats": {
+      "median_price": 3825.0,
+      "mean_price": 3877.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CBG": {
+    "short_term": {
+      "median_volume": 5193841.0,
+      "mad": 2097739.5,
+      "mean_volume": 5373107.95,
+      "std": 2633656.573610088
+    },
+    "long_term": {
+      "median_volume": 5193841.0,
+      "mad": 2097739.5,
+      "mean_volume": 5373107.95,
+      "std": 2633656.573610088
+    },
+    "price_stats": {
+      "median_price": 54.375,
+      "mean_price": 55.05
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CHG": {
+    "short_term": {
+      "median_volume": 31678195.5,
+      "mad": 12683757.0,
+      "mean_volume": 50537396.35,
+      "std": 55850704.7060859
+    },
+    "long_term": {
+      "median_volume": 31678195.5,
+      "mad": 12683757.0,
+      "mean_volume": 50537396.35,
+      "std": 55850704.7060859
+    },
+    "price_stats": {
+      "median_price": 1.5550000000000002,
+      "mean_price": 1.552
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CK": {
+    "short_term": {
+      "median_volume": 6040839.5,
+      "mad": 1700548.0,
+      "mean_volume": 7892467.85,
+      "std": 6406365.181017961
+    },
+    "long_term": {
+      "median_volume": 6040839.5,
+      "mad": 1700548.0,
+      "mean_volume": 7892467.85,
+      "std": 6406365.181017961
+    },
+    "price_stats": {
+      "median_price": 18.15,
+      "mean_price": 18.39
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CKP": {
+    "short_term": {
+      "median_volume": 3391269.0,
+      "mad": 1403074.0,
+      "mean_volume": 5142383.3,
+      "std": 6044227.593438371
+    },
+    "long_term": {
+      "median_volume": 3391269.0,
+      "mad": 1403074.0,
+      "mean_volume": 5142383.3,
+      "std": 6044227.593438371
+    },
+    "price_stats": {
+      "median_price": 2.48,
+      "mean_price": 2.4779999999999998
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CLEO": {
+    "short_term": {
+      "median_volume": 11969950.0,
+      "mad": 2792900.0,
+      "mean_volume": 14183785,
+      "std": 6746251.869802653
+    },
+    "long_term": {
+      "median_volume": 11969950.0,
+      "mad": 2792900.0,
+      "mean_volume": 14183785,
+      "std": 6746251.869802653
+    },
+    "price_stats": {
+      "median_price": 407.0,
+      "mean_price": 407.7
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CMNT": {
+    "short_term": {
+      "median_volume": 24466700.0,
+      "mad": 3509000.0,
+      "mean_volume": 25186385,
+      "std": 5122967.857679354
+    },
+    "long_term": {
+      "median_volume": 24466700.0,
+      "mad": 3509000.0,
+      "mean_volume": 25186385,
+      "std": 5122967.857679354
+    },
+    "price_stats": {
+      "median_price": 755.0,
+      "mean_price": 756.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CMRY": {
+    "short_term": {
+      "median_volume": 2765800.0,
+      "mad": 868450.0,
+      "mean_volume": 3410830,
+      "std": 2240208.950569238
+    },
+    "long_term": {
+      "median_volume": 2765800.0,
+      "mad": 868450.0,
+      "mean_volume": 3410830,
+      "std": 2240208.950569238
+    },
+    "price_stats": {
+      "median_price": 4650.0,
+      "mean_price": 4640.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "COCOCO": {
+    "short_term": {
+      "median_volume": 844407.0,
+      "mad": 458555.5,
+      "mean_volume": 1240307.25,
+      "std": 1208353.8508658826
+    },
+    "long_term": {
+      "median_volume": 844407.0,
+      "mad": 458555.5,
+      "mean_volume": 1240307.25,
+      "std": 1208353.8508658826
+    },
+    "price_stats": {
+      "median_price": 5.8,
+      "mean_price": 5.8225
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "COIN": {
+    "short_term": {
+      "median_volume": 41418300.0,
+      "mad": 19728950.0,
+      "mean_volume": 61942390,
+      "std": 56811897.64626216
+    },
+    "long_term": {
+      "median_volume": 41418300.0,
+      "mad": 19728950.0,
+      "mean_volume": 61942390,
+      "std": 56811897.64626216
+    },
+    "price_stats": {
+      "median_price": 805.0,
+      "mean_price": 788.5
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "COM7": {
+    "short_term": {
+      "median_volume": 8249326.0,
+      "mad": 2483207.0,
+      "mean_volume": 9209374.15,
+      "std": 5120977.692011209
+    },
+    "long_term": {
+      "median_volume": 8249326.0,
+      "mad": 2483207.0,
+      "mean_volume": 9209374.15,
+      "std": 5120977.692011209
+    },
+    "price_stats": {
+      "median_price": 29.25,
+      "mean_price": 29.375
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CPAXT": {
+    "short_term": {
+      "median_volume": 4014196.5,
+      "mad": 597711.0,
+      "mean_volume": 4405739.45,
+      "std": 2007224.7390371843
+    },
+    "long_term": {
+      "median_volume": 4014196.5,
+      "mad": 597711.0,
+      "mean_volume": 4405739.45,
+      "std": 2007224.7390371843
+    },
+    "price_stats": {
+      "median_price": 14.7,
+      "mean_price": 14.705
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "CTRA": {
+    "short_term": {
+      "median_volume": 10472150.0,
+      "mad": 4381750.0,
+      "mean_volume": 11977665,
+      "std": 6409643.925841665
+    },
+    "long_term": {
+      "median_volume": 10472150.0,
+      "mad": 4381750.0,
+      "mean_volume": 11977665,
+      "std": 6409643.925841665
+    },
+    "price_stats": {
+      "median_price": 625.0,
+      "mean_price": 625.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CUAN": {
+    "short_term": {
+      "median_volume": 448358000.0,
+      "mad": 177058200.0,
+      "mean_volume": 542891895,
+      "std": 295144991.9160705
+    },
+    "long_term": {
+      "median_volume": 448358000.0,
+      "mad": 177058200.0,
+      "mean_volume": 542891895,
+      "std": 295144991.9160705
+    },
+    "price_stats": {
+      "median_price": 872.5,
+      "mean_price": 875.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "CYBR": {
+    "short_term": {
+      "median_volume": 27431300.0,
+      "mad": 2264850.0,
+      "mean_volume": 27142735,
+      "std": 4112808.471141037
+    },
+    "long_term": {
+      "median_volume": 27431300.0,
+      "mad": 2264850.0,
+      "mean_volume": 27142735,
+      "std": 4112808.471141037
+    },
+    "price_stats": {
+      "median_price": 535.0,
+      "mean_price": 538.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "DAAZ": {
+    "short_term": {
+      "median_volume": 487300.0,
+      "mad": 190850.0,
+      "mean_volume": 600605,
+      "std": 371660.91290881066
+    },
+    "long_term": {
+      "median_volume": 487300.0,
+      "mad": 190850.0,
+      "mean_volume": 600605,
+      "std": 371660.91290881066
+    },
+    "price_stats": {
+      "median_price": 1680.0,
+      "mean_price": 1694.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "DATA": {
+    "short_term": {
+      "median_volume": 1699650.0,
+      "mad": 597200.0,
+      "mean_volume": 2482290,
+      "std": 1657986.0214317725
+    },
+    "long_term": {
+      "median_volume": 1699650.0,
+      "mad": 597200.0,
+      "mean_volume": 2482290,
+      "std": 1657986.0214317725
+    },
+    "price_stats": {
+      "median_price": 1852.5,
+      "mean_price": 1852.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "DEWA": {
+    "short_term": {
+      "median_volume": 413310200.0,
+      "mad": 113831600.0,
+      "mean_volume": 423642740,
+      "std": 177659008.8622862
+    },
+    "long_term": {
+      "median_volume": 413310200.0,
+      "mad": 113831600.0,
+      "mean_volume": 423642740,
+      "std": 177659008.8622862
+    },
+    "price_stats": {
+      "median_price": 446.0,
+      "mean_price": 442.3
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "DMAS": {
+    "short_term": {
+      "median_volume": 394424300.0,
+      "mad": 167894150.0,
+      "mean_volume": 487564760,
+      "std": 357383161.08490086
+    },
+    "long_term": {
+      "median_volume": 394424300.0,
+      "mad": 167894150.0,
+      "mean_volume": 487564760,
+      "std": 357383161.08490086
+    },
+    "price_stats": {
+      "median_price": 193.0,
+      "mean_price": 183.45
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "DMT": {
+    "short_term": {
+      "median_volume": 348239.0,
+      "mad": 159174.5,
+      "mean_volume": 431149.9,
+      "std": 245037.2522961184
+    },
+    "long_term": {
+      "median_volume": 348239.0,
+      "mad": 159174.5,
+      "mean_volume": 431149.9,
+      "std": 245037.2522961184
+    },
+    "price_stats": {
+      "median_price": 12.149999999999999,
+      "mean_price": 12.145
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "DOHOME": {
+    "short_term": {
+      "median_volume": 9634901.5,
+      "mad": 2847361.5,
+      "mean_volume": 10219487.15,
+      "std": 4944332.076792612
+    },
+    "long_term": {
+      "median_volume": 9634901.5,
+      "mad": 2847361.5,
+      "mean_volume": 10219487.15,
+      "std": 4944332.076792612
+    },
+    "price_stats": {
+      "median_price": 3.58,
+      "mean_price": 3.593
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "DSNG": {
+    "short_term": {
+      "median_volume": 4519350.0,
+      "mad": 1530400.0,
+      "mean_volume": 6257570,
+      "std": 3306795.173116619
+    },
+    "long_term": {
+      "median_volume": 4519350.0,
+      "mad": 1530400.0,
+      "mean_volume": 6257570,
+      "std": 3306795.173116619
+    },
+    "price_stats": {
+      "median_price": 1612.5,
+      "mean_price": 1559.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "EA": {
+    "short_term": {
+      "median_volume": 24504822.5,
+      "mad": 9911269.5,
+      "mean_volume": 36757590.1,
+      "std": 36332327.58954597
+    },
+    "long_term": {
+      "median_volume": 24504822.5,
+      "mad": 9911269.5,
+      "mean_volume": 36757590.1,
+      "std": 36332327.58954597
+    },
+    "price_stats": {
+      "median_price": 2.9,
+      "mean_price": 2.905
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "EGCO": {
+    "short_term": {
+      "median_volume": 834393.0,
+      "mad": 224895.5,
+      "mean_volume": 1221971.3,
+      "std": 703126.1421038939
+    },
+    "long_term": {
+      "median_volume": 834393.0,
+      "mad": 224895.5,
+      "mean_volume": 1221971.3,
+      "std": 703126.1421038939
+    },
+    "price_stats": {
+      "median_price": 131.25,
+      "mean_price": 131.2
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ELPI": {
+    "short_term": {
+      "median_volume": 1115000.0,
+      "mad": 263250.0,
+      "mean_volume": 2109205,
+      "std": 3571619.669808525
+    },
+    "long_term": {
+      "median_volume": 1115000.0,
+      "mad": 263250.0,
+      "mean_volume": 2109205,
+      "std": 3571619.669808525
+    },
+    "price_stats": {
+      "median_price": 670.0,
+      "mean_price": 675.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "EMTK": {
+    "short_term": {
+      "median_volume": 44531550.0,
+      "mad": 8867750.0,
+      "mean_volume": 44427200,
+      "std": 14962723.715884576
+    },
+    "long_term": {
+      "median_volume": 44531550.0,
+      "mad": 8867750.0,
+      "mean_volume": 44427200,
+      "std": 14962723.715884576
+    },
+    "price_stats": {
+      "median_price": 515.0,
+      "mean_price": 517.55
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "EPG": {
+    "short_term": {
+      "median_volume": 10846616.0,
+      "mad": 3476423.5,
+      "mean_volume": 14342876.4,
+      "std": 8079789.049696132
+    },
+    "long_term": {
+      "median_volume": 10846616.0,
+      "mad": 3476423.5,
+      "mean_volume": 14342876.4,
+      "std": 8079789.049696132
+    },
+    "price_stats": {
+      "median_price": 6.05,
+      "mean_price": 6.1175
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ERAA": {
+    "short_term": {
+      "median_volume": 111460200.0,
+      "mad": 39523250.0,
+      "mean_volume": 151201065,
+      "std": 139027747.76312697
+    },
+    "long_term": {
+      "median_volume": 111460200.0,
+      "mad": 39523250.0,
+      "mean_volume": 151201065,
+      "std": 139027747.76312697
+    },
+    "price_stats": {
+      "median_price": 497.0,
+      "mean_price": 524.85
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ERW": {
+    "short_term": {
+      "median_volume": 17317614.0,
+      "mad": 9105996.5,
+      "mean_volume": 18893850.45,
+      "std": 12342787.279121522
+    },
+    "long_term": {
+      "median_volume": 17317614.0,
+      "mad": 9105996.5,
+      "mean_volume": 18893850.45,
+      "std": 12342787.279121522
+    },
+    "price_stats": {
+      "median_price": 3.74,
+      "mean_price": 3.74
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ESSA": {
+    "short_term": {
+      "median_volume": 92295800.0,
+      "mad": 29271500.0,
+      "mean_volume": 118377655,
+      "std": 100905185.62831502
+    },
+    "long_term": {
+      "median_volume": 92295800.0,
+      "mad": 29271500.0,
+      "mean_volume": 118377655,
+      "std": 100905185.62831502
+    },
+    "price_stats": {
+      "median_price": 652.5,
+      "mean_price": 658.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "FILM": {
+    "short_term": {
+      "median_volume": 31302250.0,
+      "mad": 11302950.0,
+      "mean_volume": 46287825,
+      "std": 40381583.946996056
+    },
+    "long_term": {
+      "median_volume": 31302250.0,
+      "mad": 11302950.0,
+      "mean_volume": 46287825,
+      "std": 40381583.946996056
+    },
+    "price_stats": {
+      "median_price": 812.5,
+      "mean_price": 828.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "GFPT": {
+    "short_term": {
+      "median_volume": 3075619.0,
+      "mad": 798235.0,
+      "mean_volume": 3966114.2,
+      "std": 2931231.0120359724
+    },
+    "long_term": {
+      "median_volume": 3075619.0,
+      "mad": 798235.0,
+      "mean_volume": 3966114.2,
+      "std": 2931231.0120359724
+    },
+    "price_stats": {
+      "median_price": 10.1,
+      "mean_price": 10.174999999999999
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "GLOBAL": {
+    "short_term": {
+      "median_volume": 10454086.0,
+      "mad": 2716678.0,
+      "mean_volume": 10355422.2,
+      "std": 3628599.3938667965
+    },
+    "long_term": {
+      "median_volume": 10454086.0,
+      "mad": 2716678.0,
+      "mean_volume": 10355422.2,
+      "std": 3628599.3938667965
+    },
+    "price_stats": {
+      "median_price": 6.875,
+      "mean_price": 6.9175
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "GPSC": {
+    "short_term": {
+      "median_volume": 8138252.5,
+      "mad": 1478027.5,
+      "mean_volume": 10123522.35,
+      "std": 4966592.350211088
+    },
+    "long_term": {
+      "median_volume": 8138252.5,
+      "mad": 1478027.5,
+      "mean_volume": 10123522.35,
+      "std": 4966592.350211088
+    },
+    "price_stats": {
+      "median_price": 50.375,
+      "mean_price": 50.9625
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "GUNKUL": {
+    "short_term": {
+      "median_volume": 66737445.5,
+      "mad": 25875472.5,
+      "mean_volume": 76843642.25,
+      "std": 44827516.25169239
+    },
+    "long_term": {
+      "median_volume": 66737445.5,
+      "mad": 25875472.5,
+      "mean_volume": 76843642.25,
+      "std": 44827516.25169239
+    },
+    "price_stats": {
+      "median_price": 5.1,
+      "mean_price": 5.0805
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "HANA": {
+    "short_term": {
+      "median_volume": 15123480.0,
+      "mad": 8018420.5,
+      "mean_volume": 23813943.85,
+      "std": 18295083.593709376
+    },
+    "long_term": {
+      "median_volume": 15123480.0,
+      "mad": 8018420.5,
+      "mean_volume": 23813943.85,
+      "std": 18295083.593709376
+    },
+    "price_stats": {
+      "median_price": 46.625,
+      "mean_price": 46.8125
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "HEAL": {
+    "short_term": {
+      "median_volume": 17122350.0,
+      "mad": 4783400.0,
+      "mean_volume": 29635190,
+      "std": 36578288.64937146
+    },
+    "long_term": {
+      "median_volume": 17122350.0,
+      "mad": 4783400.0,
+      "mean_volume": 29635190,
+      "std": 36578288.64937146
+    },
+    "price_stats": {
+      "median_price": 682.5,
+      "mean_price": 677.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "HMPRO": {
+    "short_term": {
+      "median_volume": 32932314.0,
+      "mad": 6723323.0,
+      "mean_volume": 32283166.95,
+      "std": 9135320.158811608
+    },
+    "long_term": {
+      "median_volume": 32932314.0,
+      "mad": 6723323.0,
+      "mean_volume": 32283166.95,
+      "std": 9135320.158811608
+    },
+    "price_stats": {
+      "median_price": 6.425000000000001,
+      "mean_price": 6.41
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "HRTA": {
+    "short_term": {
+      "median_volume": 8302550.0,
+      "mad": 2654850.0,
+      "mean_volume": 11100810,
+      "std": 7569779.064279221
+    },
+    "long_term": {
+      "median_volume": 8302550.0,
+      "mad": 2654850.0,
+      "mean_volume": 11100810,
+      "std": 7569779.064279221
+    },
+    "price_stats": {
+      "median_price": 2250.0,
+      "mean_price": 2257.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "HRUM": {
+    "short_term": {
+      "median_volume": 18859500.0,
+      "mad": 5768250.0,
+      "mean_volume": 20899350,
+      "std": 8281903.522074341
+    },
+    "long_term": {
+      "median_volume": 18859500.0,
+      "mad": 5768250.0,
+      "mean_volume": 20899350,
+      "std": 8281903.522074341
+    },
+    "price_stats": {
+      "median_price": 922.5,
+      "mean_price": 921.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ICBP": {
+    "short_term": {
+      "median_volume": 4506300.0,
+      "mad": 2163450.0,
+      "mean_volume": 5618140,
+      "std": 2912314.9394831667
+    },
+    "long_term": {
+      "median_volume": 4506300.0,
+      "mad": 2163450.0,
+      "mean_volume": 5618140,
+      "std": 2912314.9394831667
+    },
+    "price_stats": {
+      "median_price": 7487.5,
+      "mean_price": 7490.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ICHI": {
+    "short_term": {
+      "median_volume": 3332452.5,
+      "mad": 1040377.0,
+      "mean_volume": 5241948.1,
+      "std": 3661929.968691616
+    },
+    "long_term": {
+      "median_volume": 3332452.5,
+      "mad": 1040377.0,
+      "mean_volume": 5241948.1,
+      "std": 3661929.968691616
+    },
+    "price_stats": {
+      "median_price": 14.05,
+      "mean_price": 14.12
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "IMPC": {
+    "short_term": {
+      "median_volume": 18526400.0,
+      "mad": 11201800.0,
+      "mean_volume": 22901750,
+      "std": 16915315.422996808
+    },
+    "long_term": {
+      "median_volume": 18526400.0,
+      "mad": 11201800.0,
+      "mean_volume": 22901750,
+      "std": 16915315.422996808
+    },
+    "price_stats": {
+      "median_price": 1412.5,
+      "mean_price": 1482.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "INCO": {
+    "short_term": {
+      "median_volume": 13618650.0,
+      "mad": 4420550.0,
+      "mean_volume": 13730325,
+      "std": 7509975.313988091
+    },
+    "long_term": {
+      "median_volume": 13618650.0,
+      "mad": 4420550.0,
+      "mean_volume": 13730325,
+      "std": 7509975.313988091
+    },
+    "price_stats": {
+      "median_price": 5062.5,
+      "mean_price": 5051.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "INDY": {
+    "short_term": {
+      "median_volume": 27337000.0,
+      "mad": 7623100.0,
+      "mean_volume": 30410310,
+      "std": 19435524.855434455
+    },
+    "long_term": {
+      "median_volume": 27337000.0,
+      "mad": 7623100.0,
+      "mean_volume": 30410310,
+      "std": 19435524.855434455
+    },
+    "price_stats": {
+      "median_price": 2770.0,
+      "mean_price": 2761.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "INET": {
+    "short_term": {
+      "median_volume": 867909750.0,
+      "mad": 207347350.0,
+      "mean_volume": 843006590,
+      "std": 426630345.7101906
+    },
+    "long_term": {
+      "median_volume": 867909750.0,
+      "mad": 207347350.0,
+      "mean_volume": 843006590,
+      "std": 426630345.7101906
+    },
+    "price_stats": {
+      "median_price": 345.0,
+      "mean_price": 333.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "INKP": {
+    "short_term": {
+      "median_volume": 3826650.0,
+      "mad": 1169800.0,
+      "mean_volume": 4623215,
+      "std": 2486409.2545962953
+    },
+    "long_term": {
+      "median_volume": 3826650.0,
+      "mad": 1169800.0,
+      "mean_volume": 4623215,
+      "std": 2486409.2545962953
+    },
+    "price_stats": {
+      "median_price": 8812.5,
+      "mean_price": 8863.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "INTP": {
+    "short_term": {
+      "median_volume": 1279550.0,
+      "mad": 614800.0,
+      "mean_volume": 1538715,
+      "std": 800787.1280808653
+    },
+    "long_term": {
+      "median_volume": 1279550.0,
+      "mad": 614800.0,
+      "mean_volume": 1538715,
+      "std": 800787.1280808653
+    },
+    "price_stats": {
+      "median_price": 5487.5,
+      "mean_price": 5451.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "IRPC": {
+    "short_term": {
+      "median_volume": 132830801.0,
+      "mad": 65246441.5,
+      "mean_volume": 162200223.3,
+      "std": 94892499.32916981
+    },
+    "long_term": {
+      "median_volume": 132830801.0,
+      "mad": 65246441.5,
+      "mean_volume": 162200223.3,
+      "std": 94892499.32916981
+    },
+    "price_stats": {
+      "median_price": 2.6900000000000004,
+      "mean_price": 2.719
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "ISAT": {
+    "short_term": {
+      "median_volume": 73990850.0,
+      "mad": 21003850.0,
+      "mean_volume": 85527540,
+      "std": 41940157.0966287
+    },
+    "long_term": {
+      "median_volume": 73990850.0,
+      "mad": 21003850.0,
+      "mean_volume": 85527540,
+      "std": 41940157.0966287
+    },
+    "price_stats": {
+      "median_price": 2455.0,
+      "mean_price": 2498.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ITC": {
+    "short_term": {
+      "median_volume": 3740125.5,
+      "mad": 2156432.0,
+      "mean_volume": 6093767.35,
+      "std": 4719043.829888281
+    },
+    "long_term": {
+      "median_volume": 3740125.5,
+      "mad": 2156432.0,
+      "mean_volume": 6093767.35,
+      "std": 4719043.829888281
+    },
+    "price_stats": {
+      "median_price": 17.35,
+      "mean_price": 17.325
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "JARR": {
+    "short_term": {
+      "median_volume": 6701250.0,
+      "mad": 5917400.0,
+      "mean_volume": 11257815,
+      "std": 12465391.458935415
+    },
+    "long_term": {
+      "median_volume": 6701250.0,
+      "mad": 5917400.0,
+      "mean_volume": 11257815,
+      "std": 12465391.458935415
+    },
+    "price_stats": {
+      "median_price": 3160.0,
+      "mean_price": 2825.0
+    },
+    "days_count": 22,
+    "last_date": "2026-09-14"
+  },
+  "JAS": {
+    "short_term": {
+      "median_volume": 15398653.0,
+      "mad": 6830017.0,
+      "mean_volume": 22232667.95,
+      "std": 19279611.894862287
+    },
+    "long_term": {
+      "median_volume": 15398653.0,
+      "mad": 6830017.0,
+      "mean_volume": 22232667.95,
+      "std": 19279611.894862287
+    },
+    "price_stats": {
+      "median_price": 0.9,
+      "mean_price": 0.925
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "JMART": {
+    "short_term": {
+      "median_volume": 6096103.5,
+      "mad": 1848272.5,
+      "mean_volume": 8118266.6,
+      "std": 5502935.982001861
+    },
+    "long_term": {
+      "median_volume": 6096103.5,
+      "mad": 1848272.5,
+      "mean_volume": 8118266.6,
+      "std": 5502935.982001861
+    },
+    "price_stats": {
+      "median_price": 10.850000000000001,
+      "mean_price": 10.7075
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "JMT": {
+    "short_term": {
+      "median_volume": 4930114.0,
+      "mad": 1460054.5,
+      "mean_volume": 5816172.75,
+      "std": 3395449.538864794
+    },
+    "long_term": {
+      "median_volume": 4930114.0,
+      "mad": 1460054.5,
+      "mean_volume": 5816172.75,
+      "std": 3395449.538864794
+    },
+    "price_stats": {
+      "median_price": 10.9,
+      "mean_price": 10.985
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "JPFA": {
+    "short_term": {
+      "median_volume": 14393850.0,
+      "mad": 2075150.0,
+      "mean_volume": 15534760,
+      "std": 5021755.293813844
+    },
+    "long_term": {
+      "median_volume": 14393850.0,
+      "mad": 2075150.0,
+      "mean_volume": 15534760,
+      "std": 5021755.293813844
+    },
+    "price_stats": {
+      "median_price": 2260.0,
+      "mean_price": 2268.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "JSMR": {
+    "short_term": {
+      "median_volume": 2306950.0,
+      "mad": 706000.0,
+      "mean_volume": 2680355,
+      "std": 1643933.3196475361
+    },
+    "long_term": {
+      "median_volume": 2306950.0,
+      "mad": 706000.0,
+      "mean_volume": 2680355,
+      "std": 1643933.3196475361
+    },
+    "price_stats": {
+      "median_price": 2935.0,
+      "mean_price": 2887.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "JTS": {
+    "short_term": {
+      "median_volume": 846741.5,
+      "mad": 276709.0,
+      "mean_volume": 910536.75,
+      "std": 504616.46968781884
+    },
+    "long_term": {
+      "median_volume": 846741.5,
+      "mad": 276709.0,
+      "mean_volume": 910536.75,
+      "std": 504616.46968781884
+    },
+    "price_stats": {
+      "median_price": 27.0,
+      "mean_price": 26.5675
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "KAMART": {
+    "short_term": {
+      "median_volume": 524783.0,
+      "mad": 174207.0,
+      "mean_volume": 579530.75,
+      "std": 282859.60353427246
+    },
+    "long_term": {
+      "median_volume": 524783.0,
+      "mad": 174207.0,
+      "mean_volume": 579530.75,
+      "std": 282859.60353427246
+    },
+    "price_stats": {
+      "median_price": 6.9,
+      "mean_price": 6.8875
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "KLBF": {
+    "short_term": {
+      "median_volume": 72904100.0,
+      "mad": 20884450.0,
+      "mean_volume": 82525400,
+      "std": 36250582.8397718
+    },
+    "long_term": {
+      "median_volume": 72904100.0,
+      "mad": 20884450.0,
+      "mean_volume": 82525400,
+      "std": 36250582.8397718
+    },
+    "price_stats": {
+      "median_price": 782.5,
+      "mean_price": 782.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "KPIG": {
+    "short_term": {
+      "median_volume": 240358850.0,
+      "mad": 82233650.0,
+      "mean_volume": 369090220,
+      "std": 464886017.1289886
+    },
+    "long_term": {
+      "median_volume": 240358850.0,
+      "mad": 82233650.0,
+      "mean_volume": 369090220,
+      "std": 464886017.1289886
+    },
+    "price_stats": {
+      "median_price": 66.0,
+      "mean_price": 68.3
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "KRAS": {
+    "short_term": {
+      "median_volume": 4260850.0,
+      "mad": 992100.0,
+      "mean_volume": 5854480,
+      "std": 5529440.297991527
+    },
+    "long_term": {
+      "median_volume": 4260850.0,
+      "mad": 992100.0,
+      "mean_volume": 5854480,
+      "std": 5529440.297991527
+    },
+    "price_stats": {
+      "median_price": 235.0,
+      "mean_price": 236.4
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "LH": {
+    "short_term": {
+      "median_volume": 11353086.5,
+      "mad": 4806839.5,
+      "mean_volume": 18198805.75,
+      "std": 12653310.220965438
+    },
+    "long_term": {
+      "median_volume": 11353086.5,
+      "mad": 4806839.5,
+      "mean_volume": 18198805.75,
+      "std": 12653310.220965438
+    },
+    "price_stats": {
+      "median_price": 3.66,
+      "mean_price": 3.654
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "LHFG": {
+    "short_term": {
+      "median_volume": 3043591.5,
+      "mad": 1111236.0,
+      "mean_volume": 3775243.1,
+      "std": 2299962.949911331
+    },
+    "long_term": {
+      "median_volume": 3043591.5,
+      "mad": 1111236.0,
+      "mean_volume": 3775243.1,
+      "std": 2299962.949911331
+    },
+    "price_stats": {
+      "median_price": 1.23,
+      "mean_price": 1.232
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "LPKR": {
+    "short_term": {
+      "median_volume": 120239950.0,
+      "mad": 43345900.0,
+      "mean_volume": 163489065,
+      "std": 119547076.84661204
+    },
+    "long_term": {
+      "median_volume": 120239950.0,
+      "mad": 43345900.0,
+      "mean_volume": 163489065,
+      "std": 119547076.84661204
+    },
+    "price_stats": {
+      "median_price": 62.0,
+      "mean_price": 62.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "LSIP": {
+    "short_term": {
+      "median_volume": 11449600.0,
+      "mad": 3624600.0,
+      "mean_volume": 13635380,
+      "std": 10270097.522501148
+    },
+    "long_term": {
+      "median_volume": 11449600.0,
+      "mad": 3624600.0,
+      "mean_volume": 13635380,
+      "std": 10270097.522501148
+    },
+    "price_stats": {
+      "median_price": 1497.5,
+      "mean_price": 1553.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "M": {
+    "short_term": {
+      "median_volume": 1139904.5,
+      "mad": 419954.5,
+      "mean_volume": 1625535.65,
+      "std": 1946702.2633710925
+    },
+    "long_term": {
+      "median_volume": 1139904.5,
+      "mad": 419954.5,
+      "mean_volume": 1625535.65,
+      "std": 1946702.2633710925
+    },
+    "price_stats": {
+      "median_price": 21.3,
+      "mean_price": 21.44
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MAPA": {
+    "short_term": {
+      "median_volume": 15010850.0,
+      "mad": 5836500.0,
+      "mean_volume": 18976860,
+      "std": 12197015.003611162
+    },
+    "long_term": {
+      "median_volume": 15010850.0,
+      "mad": 5836500.0,
+      "mean_volume": 18976860,
+      "std": 12197015.003611162
+    },
+    "price_stats": {
+      "median_price": 692.5,
+      "mean_price": 685.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MAPI": {
+    "short_term": {
+      "median_volume": 4130550.0,
+      "mad": 1787750.0,
+      "mean_volume": 4761265,
+      "std": 4329918.6041061105
+    },
+    "long_term": {
+      "median_volume": 4130550.0,
+      "mad": 1787750.0,
+      "mean_volume": 4761265,
+      "std": 4329918.6041061105
+    },
+    "price_stats": {
+      "median_price": 1442.5,
+      "mean_price": 1440.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MAYA": {
+    "short_term": {
+      "median_volume": 950400.0,
+      "mad": 338750.0,
+      "mean_volume": 1016945,
+      "std": 585144.0987393393
+    },
+    "long_term": {
+      "median_volume": 950400.0,
+      "mad": 338750.0,
+      "mean_volume": 1016945,
+      "std": 585144.0987393393
+    },
+    "price_stats": {
+      "median_price": 198.5,
+      "mean_price": 198.8
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MBK": {
+    "short_term": {
+      "median_volume": 2125173.5,
+      "mad": 385154.0,
+      "mean_volume": 2210718.65,
+      "std": 904577.5038571599
+    },
+    "long_term": {
+      "median_volume": 2125173.5,
+      "mad": 385154.0,
+      "mean_volume": 2210718.65,
+      "std": 904577.5038571599
+    },
+    "price_stats": {
+      "median_price": 22.15,
+      "mean_price": 22.19
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MBMA": {
+    "short_term": {
+      "median_volume": 103732750.0,
+      "mad": 38649000.0,
+      "mean_volume": 151091015,
+      "std": 103987007.81392825
+    },
+    "long_term": {
+      "median_volume": 103732750.0,
+      "mad": 38649000.0,
+      "mean_volume": 151091015,
+      "std": 103987007.81392825
+    },
+    "price_stats": {
+      "median_price": 532.5,
+      "mean_price": 537.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MC": {
+    "short_term": {
+      "median_volume": 1060982.0,
+      "mad": 487107.5,
+      "mean_volume": 1959173.25,
+      "std": 2565744.2016271525
+    },
+    "long_term": {
+      "median_volume": 1060982.0,
+      "mad": 487107.5,
+      "mean_volume": 1959173.25,
+      "std": 2565744.2016271525
+    },
+    "price_stats": {
+      "median_price": 11.3,
+      "mean_price": 11.49
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MEDC": {
+    "short_term": {
+      "median_volume": 53323150.0,
+      "mad": 13004150.0,
+      "mean_volume": 58359829.8,
+      "std": 25910722.76495324
+    },
+    "long_term": {
+      "median_volume": 53323150.0,
+      "mad": 13004150.0,
+      "mean_volume": 58359829.8,
+      "std": 25910722.76495324
+    },
+    "price_stats": {
+      "median_price": 1435.0,
+      "mean_price": 1445.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MEGA": {
+    "short_term": {
+      "median_volume": 802546.0,
+      "mad": 222776.5,
+      "mean_volume": 876931.6,
+      "std": 332956.8526633981
+    },
+    "long_term": {
+      "median_volume": 802546.0,
+      "mad": 222776.5,
+      "mean_volume": 876931.6,
+      "std": 332956.8526633981
+    },
+    "price_stats": {
+      "median_price": 36.0,
+      "mean_price": 36.0875
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MIDI": {
+    "short_term": {
+      "median_volume": 8040250.0,
+      "mad": 3061550.0,
+      "mean_volume": 10387715,
+      "std": 6965983.977063866
+    },
+    "long_term": {
+      "median_volume": 8040250.0,
+      "mad": 3061550.0,
+      "mean_volume": 10387715,
+      "std": 6965983.977063866
+    },
+    "price_stats": {
+      "median_price": 276.0,
+      "mean_price": 275.1
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MIKA": {
+    "short_term": {
+      "median_volume": 4765300.0,
+      "mad": 2123400.0,
+      "mean_volume": 5076110,
+      "std": 3187542.182160517
+    },
+    "long_term": {
+      "median_volume": 4765300.0,
+      "mad": 2123400.0,
+      "mean_volume": 5076110,
+      "std": 3187542.182160517
+    },
+    "price_stats": {
+      "median_price": 1860.0,
+      "mean_price": 1856.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MOSHI": {
+    "short_term": {
+      "median_volume": 508303.5,
+      "mad": 187563.5,
+      "mean_volume": 560432.3,
+      "std": 399927.2292960703
+    },
+    "long_term": {
+      "median_volume": 508303.5,
+      "mad": 187563.5,
+      "mean_volume": 560432.3,
+      "std": 399927.2292960703
+    },
+    "price_stats": {
+      "median_price": 38.75,
+      "mean_price": 38.7875
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MSIN": {
+    "short_term": {
+      "median_volume": 48141350.0,
+      "mad": 13572750.0,
+      "mean_volume": 57932420,
+      "std": 32128674.43901164
+    },
+    "long_term": {
+      "median_volume": 48141350.0,
+      "mad": 13572750.0,
+      "mean_volume": 57932420,
+      "std": 32128674.43901164
+    },
+    "price_stats": {
+      "median_price": 318.0,
+      "mean_price": 325.1
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MTC": {
+    "short_term": {
+      "median_volume": 10451324.0,
+      "mad": 3708886.5,
+      "mean_volume": 11339875.15,
+      "std": 4598353.591948768
+    },
+    "long_term": {
+      "median_volume": 10451324.0,
+      "mad": 3708886.5,
+      "mean_volume": 11339875.15,
+      "std": 4598353.591948768
+    },
+    "price_stats": {
+      "median_price": 30.75,
+      "mean_price": 31.0625
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "MTDL": {
+    "short_term": {
+      "median_volume": 2577800.0,
+      "mad": 1130800.0,
+      "mean_volume": 2746695,
+      "std": 1394471.2804783566
+    },
+    "long_term": {
+      "median_volume": 2577800.0,
+      "mad": 1130800.0,
+      "mean_volume": 2746695,
+      "std": 1394471.2804783566
+    },
+    "price_stats": {
+      "median_price": 510.0,
+      "mean_price": 512.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MTEL": {
+    "short_term": {
+      "median_volume": 32216350.0,
+      "mad": 10320800.0,
+      "mean_volume": 46038685,
+      "std": 40244364.593741246
+    },
+    "long_term": {
+      "median_volume": 32216350.0,
+      "mad": 10320800.0,
+      "mean_volume": 46038685,
+      "std": 40244364.593741246
+    },
+    "price_stats": {
+      "median_price": 473.0,
+      "mean_price": 468.3
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "MYOR": {
+    "short_term": {
+      "median_volume": 19111500.0,
+      "mad": 6786300.0,
+      "mean_volume": 17952245,
+      "std": 9467338.117108626
+    },
+    "long_term": {
+      "median_volume": 19111500.0,
+      "mad": 6786300.0,
+      "mean_volume": 17952245,
+      "std": 9467338.117108626
+    },
+    "price_stats": {
+      "median_price": 1570.0,
+      "mean_price": 1585.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "NCKL": {
+    "short_term": {
+      "median_volume": 45437150.0,
+      "mad": 11913000.0,
+      "mean_volume": 53884010,
+      "std": 26065300.667319942
+    },
+    "long_term": {
+      "median_volume": 45437150.0,
+      "mad": 11913000.0,
+      "mean_volume": 53884010,
+      "std": 26065300.667319942
+    },
+    "price_stats": {
+      "median_price": 952.5,
+      "mean_price": 950.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "NER": {
+    "short_term": {
+      "median_volume": 9685479.0,
+      "mad": 3521666.5,
+      "mean_volume": 11413284.8,
+      "std": 5354909.378104845
+    },
+    "long_term": {
+      "median_volume": 9685479.0,
+      "mad": 3521666.5,
+      "mean_volume": 11413284.8,
+      "std": 5354909.378104845
+    },
+    "price_stats": {
+      "median_price": 4.64,
+      "mean_price": 4.66
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "NICL": {
+    "short_term": {
+      "median_volume": 53696800.0,
+      "mad": 4410300.0,
+      "mean_volume": 46773245,
+      "std": 15043693.550261658
+    },
+    "long_term": {
+      "median_volume": 53696800.0,
+      "mad": 4410300.0,
+      "mean_volume": 46773245,
+      "std": 15043693.550261658
+    },
+    "price_stats": {
+      "median_price": 486.0,
+      "mean_price": 488.45
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "NISP": {
+    "short_term": {
+      "median_volume": 4108550.0,
+      "mad": 2391800.0,
+      "mean_volume": 5510175,
+      "std": 3962305.4303052304
+    },
+    "long_term": {
+      "median_volume": 4108550.0,
+      "mad": 2391800.0,
+      "mean_volume": 5510175,
+      "std": 3962305.4303052304
+    },
+    "price_stats": {
+      "median_price": 1252.5,
+      "mean_price": 1254.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "NSSS": {
+    "short_term": {
+      "median_volume": 5667500.0,
+      "mad": 1755500.0,
+      "mean_volume": 7026685,
+      "std": 4850382.0337083815
+    },
+    "long_term": {
+      "median_volume": 5667500.0,
+      "mad": 1755500.0,
+      "mean_volume": 7026685,
+      "std": 4850382.0337083815
+    },
+    "price_stats": {
+      "median_price": 860.0,
+      "mean_price": 859.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "OR": {
+    "short_term": {
+      "median_volume": 14462989.0,
+      "mad": 6287467.0,
+      "mean_volume": 16683718.5,
+      "std": 9784047.378929716
+    },
+    "long_term": {
+      "median_volume": 14462989.0,
+      "mad": 6287467.0,
+      "mean_volume": 16683718.5,
+      "std": 9784047.378929716
+    },
+    "price_stats": {
+      "median_price": 12.55,
+      "mean_price": 12.535
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "OSP": {
+    "short_term": {
+      "median_volume": 11131669.0,
+      "mad": 4408366.0,
+      "mean_volume": 11981757.85,
+      "std": 5683018.29227887
+    },
+    "long_term": {
+      "median_volume": 11131669.0,
+      "mad": 4408366.0,
+      "mean_volume": 11981757.85,
+      "std": 5683018.29227887
+    },
+    "price_stats": {
+      "median_price": 16.5,
+      "mean_price": 16.78
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PANI": {
+    "short_term": {
+      "median_volume": 5474500.0,
+      "mad": 1725650.0,
+      "mean_volume": 6794460,
+      "std": 4649654.846431869
+    },
+    "long_term": {
+      "median_volume": 5474500.0,
+      "mad": 1725650.0,
+      "mean_volume": 6794460,
+      "std": 4649654.846431869
+    },
+    "price_stats": {
+      "median_price": 5937.5,
+      "mean_price": 5917.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PBSA": {
+    "short_term": {
+      "median_volume": 1263850.0,
+      "mad": 517400.0,
+      "mean_volume": 1448705,
+      "std": 698953.0964423262
+    },
+    "long_term": {
+      "median_volume": 1263850.0,
+      "mad": 517400.0,
+      "mean_volume": 1448705,
+      "std": 698953.0964423262
+    },
+    "price_stats": {
+      "median_price": 817.5,
+      "mean_price": 818.75
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "PGAS": {
+    "short_term": {
+      "median_volume": 28843800.0,
+      "mad": 8291850.0,
+      "mean_volume": 33820810,
+      "std": 14112701.970915943
+    },
+    "long_term": {
+      "median_volume": 28843800.0,
+      "mad": 8291850.0,
+      "mean_volume": 33820810,
+      "std": 14112701.970915943
+    },
+    "price_stats": {
+      "median_price": 1522.5,
+      "mean_price": 1526.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PGEO": {
+    "short_term": {
+      "median_volume": 10529900.0,
+      "mad": 2444350.0,
+      "mean_volume": 13927040,
+      "std": 9113760.51198926
+    },
+    "long_term": {
+      "median_volume": 10529900.0,
+      "mad": 2444350.0,
+      "mean_volume": 13927040,
+      "std": 9113760.51198926
+    },
+    "price_stats": {
+      "median_price": 1035.0,
+      "mean_price": 1042.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PLANB": {
+    "short_term": {
+      "median_volume": 19608158.5,
+      "mad": 9060821.0,
+      "mean_volume": 25574750.8,
+      "std": 18176241.540679254
+    },
+    "long_term": {
+      "median_volume": 19608158.5,
+      "mad": 9060821.0,
+      "mean_volume": 25574750.8,
+      "std": 18176241.540679254
+    },
+    "price_stats": {
+      "median_price": 6.3,
+      "mean_price": 6.3425
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PNBN": {
+    "short_term": {
+      "median_volume": 1655550.0,
+      "mad": 423850.0,
+      "mean_volume": 1902750,
+      "std": 1198634.789864571
+    },
+    "long_term": {
+      "median_volume": 1655550.0,
+      "mad": 423850.0,
+      "mean_volume": 1902750,
+      "std": 1198634.789864571
+    },
+    "price_stats": {
+      "median_price": 905.0,
+      "mean_price": 904.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PNLF": {
+    "short_term": {
+      "median_volume": 23058800.0,
+      "mad": 9870150.0,
+      "mean_volume": 27048545,
+      "std": 17659834.21643813
+    },
+    "long_term": {
+      "median_volume": 23058800.0,
+      "mad": 9870150.0,
+      "mean_volume": 27048545,
+      "std": 17659834.21643813
+    },
+    "price_stats": {
+      "median_price": 228.0,
+      "mean_price": 229.1
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "POWR": {
+    "short_term": {
+      "median_volume": 8398300.0,
+      "mad": 3781450.0,
+      "mean_volume": 12570050,
+      "std": 12206208.949999694
+    },
+    "long_term": {
+      "median_volume": 8398300.0,
+      "mad": 3781450.0,
+      "mean_volume": 12570050,
+      "std": 12206208.949999694
+    },
+    "price_stats": {
+      "median_price": 917.5,
+      "mean_price": 910.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PR9": {
+    "short_term": {
+      "median_volume": 3129925.0,
+      "mad": 969872.0,
+      "mean_volume": 3760216.25,
+      "std": 2297747.3755842717
+    },
+    "long_term": {
+      "median_volume": 3129925.0,
+      "mad": 969872.0,
+      "mean_volume": 3760216.25,
+      "std": 2297747.3755842717
+    },
+    "price_stats": {
+      "median_price": 18.85,
+      "mean_price": 18.935
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PRM": {
+    "short_term": {
+      "median_volume": 5524184.5,
+      "mad": 800219.0,
+      "mean_volume": 5258164,
+      "std": 2859019.514852085
+    },
+    "long_term": {
+      "median_volume": 5524184.5,
+      "mad": 800219.0,
+      "mean_volume": 5258164,
+      "std": 2859019.514852085
+    },
+    "price_stats": {
+      "median_price": 9.825,
+      "mean_price": 9.83
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PSGC": {
+    "short_term": {
+      "median_volume": 95250.0,
+      "mad": 55550.0,
+      "mean_volume": 146835,
+      "std": 130106.15210584576
+    },
+    "long_term": {
+      "median_volume": 95250.0,
+      "mad": 55550.0,
+      "mean_volume": 146835,
+      "std": 130106.15210584576
+    },
+    "price_stats": {
+      "median_price": 5.875,
+      "mean_price": 5.8975
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PSL": {
+    "short_term": {
+      "median_volume": 6780573.5,
+      "mad": 2073050.0,
+      "mean_volume": 8393153.7,
+      "std": 3375607.579575098
+    },
+    "long_term": {
+      "median_volume": 6780573.5,
+      "mad": 2073050.0,
+      "mean_volume": 8393153.7,
+      "std": 3375607.579575098
+    },
+    "price_stats": {
+      "median_price": 10.3,
+      "mean_price": 10.290000000000001
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PTBA": {
+    "short_term": {
+      "median_volume": 35703300.0,
+      "mad": 25996150.0,
+      "mean_volume": 48986840,
+      "std": 37786561.63635845
+    },
+    "long_term": {
+      "median_volume": 35703300.0,
+      "mad": 25996150.0,
+      "mean_volume": 48986840,
+      "std": 37786561.63635845
+    },
+    "price_stats": {
+      "median_price": 2615.0,
+      "mean_price": 2697.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PTG": {
+    "short_term": {
+      "median_volume": 9610847.0,
+      "mad": 4813321.0,
+      "mean_volume": 12647273.6,
+      "std": 9555472.179648787
+    },
+    "long_term": {
+      "median_volume": 9610847.0,
+      "mad": 4813321.0,
+      "mean_volume": 12647273.6,
+      "std": 9555472.179648787
+    },
+    "price_stats": {
+      "median_price": 7.775,
+      "mean_price": 7.8725
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "PTRO": {
+    "short_term": {
+      "median_volume": 42294550.0,
+      "mad": 11405700.0,
+      "mean_volume": 43723465,
+      "std": 19741010.241020568
+    },
+    "long_term": {
+      "median_volume": 42294550.0,
+      "mad": 11405700.0,
+      "mean_volume": 43723465,
+      "std": 19741010.241020568
+    },
+    "price_stats": {
+      "median_price": 5300.0,
+      "mean_price": 5266.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "PWON": {
+    "short_term": {
+      "median_volume": 45196800.0,
+      "mad": 16172900.0,
+      "mean_volume": 60364210,
+      "std": 58943701.421261646
+    },
+    "long_term": {
+      "median_volume": 45196800.0,
+      "mad": 16172900.0,
+      "mean_volume": 60364210,
+      "std": 58943701.421261646
+    },
+    "price_stats": {
+      "median_price": 272.0,
+      "mean_price": 270.9
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "QH": {
+    "short_term": {
+      "median_volume": 7887354.5,
+      "mad": 4126214.5,
+      "mean_volume": 9620895.25,
+      "std": 4698231.075541
+    },
+    "long_term": {
+      "median_volume": 7887354.5,
+      "mad": 4126214.5,
+      "mean_volume": 9620895.25,
+      "std": 4698231.075541
+    },
+    "price_stats": {
+      "median_price": 1.415,
+      "mean_price": 1.4169999999999998
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "RAJA": {
+    "short_term": {
+      "median_volume": 71975400.0,
+      "mad": 22418400.0,
+      "mean_volume": 78512455,
+      "std": 32292439.12978743
+    },
+    "long_term": {
+      "median_volume": 71975400.0,
+      "mad": 22418400.0,
+      "mean_volume": 78512455,
+      "std": 32292439.12978743
+    },
+    "price_stats": {
+      "median_price": 817.5,
+      "mean_price": 818.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "RAM": {
+    "short_term": {
+      "median_volume": 31933.0,
+      "mad": 15160.0,
+      "mean_volume": 40098.95,
+      "std": 29734.371092399557
+    },
+    "long_term": {
+      "median_volume": 31933.0,
+      "mad": 15160.0,
+      "mean_volume": 40098.95,
+      "std": 29734.371092399557
+    },
+    "price_stats": {
+      "median_price": 17.7,
+      "mean_price": 17.695
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "RATCH": {
+    "short_term": {
+      "median_volume": 4947286.0,
+      "mad": 1565544.5,
+      "mean_volume": 5885599.75,
+      "std": 2671879.1118355533
+    },
+    "long_term": {
+      "median_volume": 4947286.0,
+      "mad": 1565544.5,
+      "mean_volume": 5885599.75,
+      "std": 2671879.1118355533
+    },
+    "price_stats": {
+      "median_price": 37.375,
+      "mean_price": 37.425
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "RATU": {
+    "short_term": {
+      "median_volume": 12156800.0,
+      "mad": 3459600.0,
+      "mean_volume": 12028195,
+      "std": 5512283.602863221
+    },
+    "long_term": {
+      "median_volume": 12156800.0,
+      "mad": 3459600.0,
+      "mean_volume": 12028195,
+      "std": 5512283.602863221
+    },
+    "price_stats": {
+      "median_price": 4415.0,
+      "mean_price": 4421.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "RCL": {
+    "short_term": {
+      "median_volume": 5657567.5,
+      "mad": 1071613.0,
+      "mean_volume": 5819757.35,
+      "std": 2419543.677063492
+    },
+    "long_term": {
+      "median_volume": 5657567.5,
+      "mad": 1071613.0,
+      "mean_volume": 5819757.35,
+      "std": 2419543.677063492
+    },
+    "price_stats": {
+      "median_price": 43.0,
+      "mean_price": 43.275
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "RMKE": {
+    "short_term": {
+      "median_volume": 85898750.0,
+      "mad": 18690200.0,
+      "mean_volume": 92213360,
+      "std": 37157583.64366836
+    },
+    "long_term": {
+      "median_volume": 85898750.0,
+      "mad": 18690200.0,
+      "mean_volume": 92213360,
+      "std": 37157583.64366836
+    },
+    "price_stats": {
+      "median_price": 419.0,
+      "mean_price": 421.6
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "ROJNA": {
+    "short_term": {
+      "median_volume": 2225859.5,
+      "mad": 896807.5,
+      "mean_volume": 2366614.55,
+      "std": 1163197.5216818452
+    },
+    "long_term": {
+      "median_volume": 2225859.5,
+      "mad": 896807.5,
+      "mean_volume": 2366614.55,
+      "std": 1163197.5216818452
+    },
+    "price_stats": {
+      "median_price": 5.85,
+      "mean_price": 5.855
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SAPPE": {
+    "short_term": {
+      "median_volume": 256983.0,
+      "mad": 100888.5,
+      "mean_volume": 282537.75,
+      "std": 175730.88883345856
+    },
+    "long_term": {
+      "median_volume": 256983.0,
+      "mad": 100888.5,
+      "mean_volume": 282537.75,
+      "std": 175730.88883345856
+    },
+    "price_stats": {
+      "median_price": 34.0,
+      "mean_price": 34.35
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SAWAD": {
+    "short_term": {
+      "median_volume": 9818295.0,
+      "mad": 3553687.5,
+      "mean_volume": 10254311.7,
+      "std": 5249630.510398313
+    },
+    "long_term": {
+      "median_volume": 9818295.0,
+      "mad": 3553687.5,
+      "mean_volume": 10254311.7,
+      "std": 5249630.510398313
+    },
+    "price_stats": {
+      "median_price": 23.200000000000003,
+      "mean_price": 23.245
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SCCC": {
+    "short_term": {
+      "median_volume": 59526.0,
+      "mad": 32551.5,
+      "mean_volume": 193308.4,
+      "std": 383367.64114762575
+    },
+    "long_term": {
+      "median_volume": 59526.0,
+      "mad": 32551.5,
+      "mean_volume": 193308.4,
+      "std": 383367.64114762575
+    },
+    "price_stats": {
+      "median_price": 152.75,
+      "mean_price": 152.625
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SCGP": {
+    "short_term": {
+      "median_volume": 11165307.5,
+      "mad": 4892123.0,
+      "mean_volume": 12926769.2,
+      "std": 6299235.519010797
+    },
+    "long_term": {
+      "median_volume": 11165307.5,
+      "mad": 4892123.0,
+      "mean_volume": 12926769.2,
+      "std": 6299235.519010797
+    },
+    "price_stats": {
+      "median_price": 29.5,
+      "mean_price": 29.5875
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SGER": {
+    "short_term": {
+      "median_volume": 58692400.0,
+      "mad": 14070100.0,
+      "mean_volume": 62543755,
+      "std": 40419486.6543937
+    },
+    "long_term": {
+      "median_volume": 58692400.0,
+      "mad": 14070100.0,
+      "mean_volume": 62543755,
+      "std": 40419486.6543937
+    },
+    "price_stats": {
+      "median_price": 622.5,
+      "mean_price": 601.9
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SGRO": {
+    "short_term": {
+      "median_volume": 58850.0,
+      "mad": 34100.0,
+      "mean_volume": 70365,
+      "std": 56266.604800622845
+    },
+    "long_term": {
+      "median_volume": 58850.0,
+      "mad": 34100.0,
+      "mean_volume": 70365,
+      "std": 56266.604800622845
+    },
+    "price_stats": {
+      "median_price": 4815.0,
+      "mean_price": 4850.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SIDO": {
+    "short_term": {
+      "median_volume": 23219800.0,
+      "mad": 5542300.0,
+      "mean_volume": 27065085,
+      "std": 11610903.681103742
+    },
+    "long_term": {
+      "median_volume": 23219800.0,
+      "mad": 5542300.0,
+      "mean_volume": 27065085,
+      "std": 11610903.681103742
+    },
+    "price_stats": {
+      "median_price": 352.0,
+      "mean_price": 351.7
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SIMP": {
+    "short_term": {
+      "median_volume": 12230400.0,
+      "mad": 5125400.0,
+      "mean_volume": 14212770,
+      "std": 11133981.285383193
+    },
+    "long_term": {
+      "median_volume": 12230400.0,
+      "mad": 5125400.0,
+      "mean_volume": 14212770,
+      "std": 11133981.285383193
+    },
+    "price_stats": {
+      "median_price": 617.5,
+      "mean_price": 620.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SIRI": {
+    "short_term": {
+      "median_volume": 33145879.0,
+      "mad": 9481679.5,
+      "mean_volume": 35100194.7,
+      "std": 12645770.270679982
+    },
+    "long_term": {
+      "median_volume": 33145879.0,
+      "mad": 9481679.5,
+      "mean_volume": 35100194.7,
+      "std": 12645770.270679982
+    },
+    "price_stats": {
+      "median_price": 1.47,
+      "mean_price": 1.4825
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SISB": {
+    "short_term": {
+      "median_volume": 1211830.5,
+      "mad": 520431.0,
+      "mean_volume": 1549449.9,
+      "std": 1267614.5824884463
+    },
+    "long_term": {
+      "median_volume": 1211830.5,
+      "mad": 520431.0,
+      "mean_volume": 1549449.9,
+      "std": 1267614.5824884463
+    },
+    "price_stats": {
+      "median_price": 9.2,
+      "mean_price": 9.2475
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SJWD": {
+    "short_term": {
+      "median_volume": 2200387.0,
+      "mad": 551771.5,
+      "mean_volume": 2512102.1,
+      "std": 1078988.7531725396
+    },
+    "long_term": {
+      "median_volume": 2200387.0,
+      "mad": 551771.5,
+      "mean_volume": 2512102.1,
+      "std": 1078988.7531725396
+    },
+    "price_stats": {
+      "median_price": 9.55,
+      "mean_price": 9.5825
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SMDR": {
+    "short_term": {
+      "median_volume": 13025250.0,
+      "mad": 5706150.0,
+      "mean_volume": 25741525,
+      "std": 28098088.162099775
+    },
+    "long_term": {
+      "median_volume": 13025250.0,
+      "mad": 5706150.0,
+      "mean_volume": 25741525,
+      "std": 28098088.162099775
+    },
+    "price_stats": {
+      "median_price": 319.0,
+      "mean_price": 335.6
+    },
+    "days_count": 28,
+    "last_date": "2026-09-14"
+  },
+  "SMGR": {
+    "short_term": {
+      "median_volume": 21698450.0,
+      "mad": 4271900.0,
+      "mean_volume": 32677730,
+      "std": 34320549.089784615
+    },
+    "long_term": {
+      "median_volume": 21698450.0,
+      "mad": 4271900.0,
+      "mean_volume": 32677730,
+      "std": 34320549.089784615
+    },
+    "price_stats": {
+      "median_price": 1617.5,
+      "mean_price": 1628.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SMRA": {
+    "short_term": {
+      "median_volume": 21021750.0,
+      "mad": 6972150.0,
+      "mean_volume": 21942615,
+      "std": 12026198.966872942
+    },
+    "long_term": {
+      "median_volume": 21021750.0,
+      "mad": 6972150.0,
+      "mean_volume": 21942615,
+      "std": 12026198.966872942
+    },
+    "price_stats": {
+      "median_price": 332.0,
+      "mean_price": 327.1
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SMSM": {
+    "short_term": {
+      "median_volume": 2744150.0,
+      "mad": 1139650.0,
+      "mean_volume": 3466450,
+      "std": 2267473.27089219
+    },
+    "long_term": {
+      "median_volume": 2744150.0,
+      "mad": 1139650.0,
+      "mean_volume": 3466450,
+      "std": 2267473.27089219
+    },
+    "price_stats": {
+      "median_price": 1732.5,
+      "mean_price": 1732.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SPALI": {
+    "short_term": {
+      "median_volume": 4627000.5,
+      "mad": 2402922.5,
+      "mean_volume": 5512985.2,
+      "std": 3380661.938974434
+    },
+    "long_term": {
+      "median_volume": 4627000.5,
+      "mad": 2402922.5,
+      "mean_volume": 5512985.2,
+      "std": 3380661.938974434
+    },
+    "price_stats": {
+      "median_price": 16.1,
+      "mean_price": 16.22
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SPRC": {
+    "short_term": {
+      "median_volume": 30247052.0,
+      "mad": 8675685.5,
+      "mean_volume": 31498848.75,
+      "std": 13948660.25070301
+    },
+    "long_term": {
+      "median_volume": 30247052.0,
+      "mad": 8675685.5,
+      "mean_volume": 31498848.75,
+      "std": 13948660.25070301
+    },
+    "price_stats": {
+      "median_price": 13.05,
+      "mean_price": 12.925
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SRTG": {
+    "short_term": {
+      "median_volume": 4591100.0,
+      "mad": 2079700.0,
+      "mean_volume": 5676440,
+      "std": 3419659.3581355745
+    },
+    "long_term": {
+      "median_volume": 4591100.0,
+      "mad": 2079700.0,
+      "mean_volume": 5676440,
+      "std": 3419659.3581355745
+    },
+    "price_stats": {
+      "median_price": 1842.5,
+      "mean_price": 1857.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SSIA": {
+    "short_term": {
+      "median_volume": 22645050.0,
+      "mad": 2962150.0,
+      "mean_volume": 29587615,
+      "std": 17842472.5284561
+    },
+    "long_term": {
+      "median_volume": 22645050.0,
+      "mad": 2962150.0,
+      "mean_volume": 29587615,
+      "std": 17842472.5284561
+    },
+    "price_stats": {
+      "median_price": 1797.5,
+      "mean_price": 1800.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "SSMS": {
+    "short_term": {
+      "median_volume": 10615050.0,
+      "mad": 1012150.0,
+      "mean_volume": 12959575,
+      "std": 6537294.839037016
+    },
+    "long_term": {
+      "median_volume": 10615050.0,
+      "mad": 1012150.0,
+      "mean_volume": 12959575,
+      "std": 6537294.839037016
+    },
+    "price_stats": {
+      "median_price": 927.5,
+      "mean_price": 1035.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "STA": {
+    "short_term": {
+      "median_volume": 21298876.0,
+      "mad": 6616215.5,
+      "mean_volume": 23779900.3,
+      "std": 10509099.388324097
+    },
+    "long_term": {
+      "median_volume": 21298876.0,
+      "mad": 6616215.5,
+      "mean_volume": 23779900.3,
+      "std": 10509099.388324097
+    },
+    "price_stats": {
+      "median_price": 21.549999999999997,
+      "mean_price": 21.455
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "STAA": {
+    "short_term": {
+      "median_volume": 6051550.0,
+      "mad": 1627300.0,
+      "mean_volume": 6166255,
+      "std": 2020252.6323197149
+    },
+    "long_term": {
+      "median_volume": 6051550.0,
+      "mad": 1627300.0,
+      "mean_volume": 6166255,
+      "std": 2020252.6323197149
+    },
+    "price_stats": {
+      "median_price": 1197.5,
+      "mean_price": 1198.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "STANLY": {
+    "short_term": {
+      "median_volume": 15734.5,
+      "mad": 7805.5,
+      "mean_volume": 20619.75,
+      "std": 16631.773218989452
+    },
+    "long_term": {
+      "median_volume": 15734.5,
+      "mad": 7805.5,
+      "mean_volume": 20619.75,
+      "std": 16631.773218989452
+    },
+    "price_stats": {
+      "median_price": 227.5,
+      "mean_price": 227.1
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "STECON": {
+    "short_term": {
+      "median_volume": 13920368.5,
+      "mad": 3667283.5,
+      "mean_volume": 19321761.2,
+      "std": 16698965.67906048
+    },
+    "long_term": {
+      "median_volume": 13920368.5,
+      "mad": 3667283.5,
+      "mean_volume": 19321761.2,
+      "std": 16698965.67906048
+    },
+    "price_stats": {
+      "median_price": 18.2,
+      "mean_price": 18.215
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "STGT": {
+    "short_term": {
+      "median_volume": 3304963.5,
+      "mad": 1385508.0,
+      "mean_volume": 3832001.05,
+      "std": 2117569.6366067864
+    },
+    "long_term": {
+      "median_volume": 3304963.5,
+      "mad": 1385508.0,
+      "mean_volume": 3832001.05,
+      "std": 2117569.6366067864
+    },
+    "price_stats": {
+      "median_price": 10.95,
+      "mean_price": 10.92
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "SYNEX": {
+    "short_term": {
+      "median_volume": 1664664.5,
+      "mad": 485355.0,
+      "mean_volume": 2148095.55,
+      "std": 1507814.2636611962
+    },
+    "long_term": {
+      "median_volume": 1664664.5,
+      "mad": 485355.0,
+      "mean_volume": 2148095.55,
+      "std": 1507814.2636611962
+    },
+    "price_stats": {
+      "median_price": 9.775,
+      "mean_price": 9.785
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TAPG": {
+    "short_term": {
+      "median_volume": 19799300.0,
+      "mad": 7310100.0,
+      "mean_volume": 27994970,
+      "std": 17324361.96458921
+    },
+    "long_term": {
+      "median_volume": 19799300.0,
+      "mad": 7310100.0,
+      "mean_volume": 27994970,
+      "std": 17324361.96458921
+    },
+    "price_stats": {
+      "median_price": 2160.0,
+      "mean_price": 2124.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TASCO": {
+    "short_term": {
+      "median_volume": 7639302.0,
+      "mad": 2530090.5,
+      "mean_volume": 10321120.4,
+      "std": 8510286.990302516
+    },
+    "long_term": {
+      "median_volume": 7639302.0,
+      "mad": 2530090.5,
+      "mean_volume": 10321120.4,
+      "std": 8510286.990302516
+    },
+    "price_stats": {
+      "median_price": 17.2,
+      "mean_price": 17.17
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TCPI": {
+    "short_term": {
+      "median_volume": 4961100.0,
+      "mad": 1757900.0,
+      "mean_volume": 6502975,
+      "std": 7551692.564401496
+    },
+    "long_term": {
+      "median_volume": 4961100.0,
+      "mad": 1757900.0,
+      "mean_volume": 6502975,
+      "std": 7551692.564401496
+    },
+    "price_stats": {
+      "median_price": 2320.0,
+      "mean_price": 2400.25
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TFG": {
+    "short_term": {
+      "median_volume": 12021775.5,
+      "mad": 3034891.5,
+      "mean_volume": 13176964.9,
+      "std": 4881883.968574243
+    },
+    "long_term": {
+      "median_volume": 12021775.5,
+      "mad": 3034891.5,
+      "mean_volume": 13176964.9,
+      "std": 4881883.968574243
+    },
+    "price_stats": {
+      "median_price": 9.9,
+      "mean_price": 9.9175
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "THANI": {
+    "short_term": {
+      "median_volume": 11408883.5,
+      "mad": 2555399.5,
+      "mean_volume": 11190575,
+      "std": 3182170.089312853
+    },
+    "long_term": {
+      "median_volume": 11408883.5,
+      "mad": 2555399.5,
+      "mean_volume": 11190575,
+      "std": 3182170.089312853
+    },
+    "price_stats": {
+      "median_price": 2.1,
+      "mean_price": 2.111
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "THCOM": {
+    "short_term": {
+      "median_volume": 3975432.0,
+      "mad": 2123571.0,
+      "mean_volume": 5732857.1,
+      "std": 4487766.998095963
+    },
+    "long_term": {
+      "median_volume": 3975432.0,
+      "mad": 2123571.0,
+      "mean_volume": 5732857.1,
+      "std": 4487766.998095963
+    },
+    "price_stats": {
+      "median_price": 10.8,
+      "mean_price": 10.715
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TIDLOR": {
+    "short_term": {
+      "median_volume": 13707221.5,
+      "mad": 3621330.5,
+      "mean_volume": 18437784.05,
+      "std": 12556078.758299593
+    },
+    "long_term": {
+      "median_volume": 13707221.5,
+      "mad": 3621330.5,
+      "mean_volume": 18437784.05,
+      "std": 12556078.758299593
+    },
+    "price_stats": {
+      "median_price": 19.1,
+      "mean_price": 19.09
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TINS": {
+    "short_term": {
+      "median_volume": 46425400.0,
+      "mad": 11354100.0,
+      "mean_volume": 55859115,
+      "std": 29469185.03909992
+    },
+    "long_term": {
+      "median_volume": 46425400.0,
+      "mad": 11354100.0,
+      "mean_volume": 55859115,
+      "std": 29469185.03909992
+    },
+    "price_stats": {
+      "median_price": 4085.0,
+      "mean_price": 4217.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TIPH": {
+    "short_term": {
+      "median_volume": 465607.5,
+      "mad": 187749.0,
+      "mean_volume": 680635.85,
+      "std": 731289.7103891018
+    },
+    "long_term": {
+      "median_volume": 465607.5,
+      "mad": 187749.0,
+      "mean_volume": 680635.85,
+      "std": 731289.7103891018
+    },
+    "price_stats": {
+      "median_price": 25.25,
+      "mean_price": 24.8175
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TKIM": {
+    "short_term": {
+      "median_volume": 2970550.0,
+      "mad": 1206750.0,
+      "mean_volume": 3022110,
+      "std": 1242774.9226291096
+    },
+    "long_term": {
+      "median_volume": 2970550.0,
+      "mad": 1206750.0,
+      "mean_volume": 3022110,
+      "std": 1242774.9226291096
+    },
+    "price_stats": {
+      "median_price": 7987.5,
+      "mean_price": 8032.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TLI": {
+    "short_term": {
+      "median_volume": 11520047.0,
+      "mad": 4642324.0,
+      "mean_volume": 14691602.15,
+      "std": 11426314.138002869
+    },
+    "long_term": {
+      "median_volume": 11520047.0,
+      "mad": 4642324.0,
+      "mean_volume": 14691602.15,
+      "std": 11426314.138002869
+    },
+    "price_stats": {
+      "median_price": 11.3,
+      "mean_price": 11.28
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TMAS": {
+    "short_term": {
+      "median_volume": 7512100.0,
+      "mad": 3133700.0,
+      "mean_volume": 9397380,
+      "std": 7036513.816522019
+    },
+    "long_term": {
+      "median_volume": 7512100.0,
+      "mad": 3133700.0,
+      "mean_volume": 9397380,
+      "std": 7036513.816522019
+    },
+    "price_stats": {
+      "median_price": 140.0,
+      "mean_price": 140.8
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TOA": {
+    "short_term": {
+      "median_volume": 3034831.5,
+      "mad": 952079.5,
+      "mean_volume": 3067321,
+      "std": 1307503.6436224969
+    },
+    "long_term": {
+      "median_volume": 3034831.5,
+      "mad": 952079.5,
+      "mean_volume": 3067321,
+      "std": 1307503.6436224969
+    },
+    "price_stats": {
+      "median_price": 15.5,
+      "mean_price": 15.47
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TOBA": {
+    "short_term": {
+      "median_volume": 17159450.0,
+      "mad": 4190200.0,
+      "mean_volume": 23088035,
+      "std": 18039273.148657303
+    },
+    "long_term": {
+      "median_volume": 17159450.0,
+      "mad": 4190200.0,
+      "mean_volume": 23088035,
+      "std": 18039273.148657303
+    },
+    "price_stats": {
+      "median_price": 575.0,
+      "mean_price": 568.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TOWR": {
+    "short_term": {
+      "median_volume": 79084400.0,
+      "mad": 37489350.0,
+      "mean_volume": 87946025,
+      "std": 63682741.52420588
+    },
+    "long_term": {
+      "median_volume": 79084400.0,
+      "mad": 37489350.0,
+      "mean_volume": 87946025,
+      "std": 63682741.52420588
+    },
+    "price_stats": {
+      "median_price": 452.0,
+      "mean_price": 448.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TPIA": {
+    "short_term": {
+      "median_volume": 202568700.0,
+      "mad": 47299850.0,
+      "mean_volume": 224165480,
+      "std": 83977321.91078106
+    },
+    "long_term": {
+      "median_volume": 202568700.0,
+      "mad": 47299850.0,
+      "mean_volume": 224165480,
+      "std": 83977321.91078106
+    },
+    "price_stats": {
+      "median_price": 1965.0,
+      "mean_price": 1960.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "TPIPL": {
+    "short_term": {
+      "median_volume": 21012942.0,
+      "mad": 11592039.0,
+      "mean_volume": 37604241.9,
+      "std": 39387711.824938335
+    },
+    "long_term": {
+      "median_volume": 21012942.0,
+      "mad": 11592039.0,
+      "mean_volume": 37604241.9,
+      "std": 39387711.824938335
+    },
+    "price_stats": {
+      "median_price": 0.91,
+      "mean_price": 0.918
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TPIPP": {
+    "short_term": {
+      "median_volume": 1743099.5,
+      "mad": 818088.0,
+      "mean_volume": 2069676.95,
+      "std": 1251728.9438285572
+    },
+    "long_term": {
+      "median_volume": 1743099.5,
+      "mad": 818088.0,
+      "mean_volume": 2069676.95,
+      "std": 1251728.9438285572
+    },
+    "price_stats": {
+      "median_price": 1.76,
+      "mean_price": 1.7645
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TTW": {
+    "short_term": {
+      "median_volume": 2507053.0,
+      "mad": 784881.0,
+      "mean_volume": 2658176.6,
+      "std": 1131590.263935224
+    },
+    "long_term": {
+      "median_volume": 2507053.0,
+      "mad": 784881.0,
+      "mean_volume": 2658176.6,
+      "std": 1131590.263935224
+    },
+    "price_stats": {
+      "median_price": 10.3,
+      "mean_price": 10.31
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TU": {
+    "short_term": {
+      "median_volume": 11404150.0,
+      "mad": 4405399.5,
+      "mean_volume": 11672198.75,
+      "std": 6820364.730345985
+    },
+    "long_term": {
+      "median_volume": 11404150.0,
+      "mad": 4405399.5,
+      "mean_volume": 11672198.75,
+      "std": 6820364.730345985
+    },
+    "price_stats": {
+      "median_price": 13.0,
+      "mean_price": 12.945
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "TVO": {
+    "short_term": {
+      "median_volume": 1215365.0,
+      "mad": 467587.0,
+      "mean_volume": 1392790.45,
+      "std": 805791.0905831659
+    },
+    "long_term": {
+      "median_volume": 1215365.0,
+      "mad": 467587.0,
+      "mean_volume": 1392790.45,
+      "std": 805791.0905831659
+    },
+    "price_stats": {
+      "median_price": 27.875,
+      "mean_price": 28.175
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "UANG": {
+    "short_term": {
+      "median_volume": 155500.0,
+      "mad": 99250.0,
+      "mean_volume": 439495,
+      "std": 705533.7370985249
+    },
+    "long_term": {
+      "median_volume": 155500.0,
+      "mad": 99250.0,
+      "mean_volume": 439495,
+      "std": 705533.7370985249
+    },
+    "price_stats": {
+      "median_price": 2465.0,
+      "mean_price": 2729.5
+    },
+    "days_count": 25,
+    "last_date": "2026-09-14"
+  },
+  "UDNG": {
+    "short_term": {
+      "median_volume": 2554200.0,
+      "mad": 1616500.0,
+      "mean_volume": 6052545,
+      "std": 6034711.421214946
+    },
+    "long_term": {
+      "median_volume": 2554200.0,
+      "mad": 1616500.0,
+      "mean_volume": 6052545,
+      "std": 6034711.421214946
+    },
+    "price_stats": {
+      "median_price": 1295.0,
+      "mean_price": 1129.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "UNVR": {
+    "short_term": {
+      "median_volume": 11763500.0,
+      "mad": 3711400.0,
+      "mean_volume": 19014230,
+      "std": 28997423.615249176
+    },
+    "long_term": {
+      "median_volume": 11763500.0,
+      "mad": 3711400.0,
+      "mean_volume": 19014230,
+      "std": 28997423.615249176
+    },
+    "price_stats": {
+      "median_price": 1732.5,
+      "mean_price": 1727.5
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "UVAN": {
+    "short_term": {
+      "median_volume": 332160.5,
+      "mad": 135454.5,
+      "mean_volume": 447430.05,
+      "std": 270661.55152854545
+    },
+    "long_term": {
+      "median_volume": 332160.5,
+      "mad": 135454.5,
+      "mean_volume": 447430.05,
+      "std": 270661.55152854545
+    },
+    "price_stats": {
+      "median_price": 14.3,
+      "mean_price": 14.275
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "VGI": {
+    "short_term": {
+      "median_volume": 80141918.0,
+      "mad": 51546311.5,
+      "mean_volume": 136724086.5,
+      "std": 161639033.31654838
+    },
+    "long_term": {
+      "median_volume": 80141918.0,
+      "mad": 51546311.5,
+      "mean_volume": 136724086.5,
+      "std": 161639033.31654838
+    },
+    "price_stats": {
+      "median_price": 1.01,
+      "mean_price": 1.028
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "VKTR": {
+    "short_term": {
+      "median_volume": 90360200.0,
+      "mad": 29189400.0,
+      "mean_volume": 103094165,
+      "std": 49505435.97838285
+    },
+    "long_term": {
+      "median_volume": 90360200.0,
+      "mad": 29189400.0,
+      "mean_volume": 103094165,
+      "std": 49505435.97838285
+    },
+    "price_stats": {
+      "median_price": 882.5,
+      "mean_price": 882.75
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  },
+  "WHAUP": {
+    "short_term": {
+      "median_volume": 7896928.5,
+      "mad": 2036993.0,
+      "mean_volume": 11114535.85,
+      "std": 7002468.989984478
+    },
+    "long_term": {
+      "median_volume": 7896928.5,
+      "mad": 2036993.0,
+      "mean_volume": 11114535.85,
+      "std": 7002468.989984478
+    },
+    "price_stats": {
+      "median_price": 7.475,
+      "mean_price": 7.515
+    },
+    "days_count": 30,
+    "last_date": "2026-09-14"
+  },
+  "WIFI": {
+    "short_term": {
+      "median_volume": 26727500.0,
+      "mad": 9106250.0,
+      "mean_volume": 37783035,
+      "std": 31809710.13976831
+    },
+    "long_term": {
+      "median_volume": 26727500.0,
+      "mad": 9106250.0,
+      "mean_volume": 37783035,
+      "std": 31809710.13976831
+    },
+    "price_stats": {
+      "median_price": 2090.0,
+      "mean_price": 2062.0
+    },
+    "days_count": 29,
+    "last_date": "2026-09-14"
+  }
+}

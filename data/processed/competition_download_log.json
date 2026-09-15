@@ -1,0 +1,2167 @@
+{
+  "download_time": "2026-09-14T00:53:56.947050",
+  "total_tickers": 215,
+  "2024": {
+    "period": "2024-10-07 to 2024-11-16",
+    "success": 212,
+    "failed": 3,
+    "coverage": 98.6046511627907,
+    "results": [
+      {
+        "ticker": "LPKR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BBKP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SGRO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "KPIG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BKSL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TMAS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BUKA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "KRAS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "DMAS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PBSA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BIPI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MAYA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PNLF",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BANK",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "DATA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MIDI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SMDR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "DAAZ",
+        "status": "success",
+        "days": 5
+      },
+      {
+        "ticker": "PWON",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MSIN",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SIDO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ACES",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ELPI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SMRA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "NICL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CYBR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TOBA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "INET",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CLEO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "UDNG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SIMP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BJTM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "AVIA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "RMKE",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CMNT",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MTDL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BULL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "UANG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "APIC",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TOWR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CARE",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SGER",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "DEWA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MTEL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BJBR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ERAA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "COIN",
+        "status": "no_data"
+      },
+      {
+        "ticker": "EMTK",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "POWR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ALII",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MBMA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BSDE",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CTRA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "HRUM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "RAJA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "HEAL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BTPS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MAPA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ABMM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ESSA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PNBN",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BUVA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SSMS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "FILM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "NSSS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "KLBF",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PGEO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BFIN",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ARTO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "STAA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "NISP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "VKTR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SRTG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "NCKL",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TCPI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CUAN",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ARCI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BBTN",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SMSM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "HRTA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "DSNG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MYOR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "LSIP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "AUTO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CBDK",
+        "status": "no_data"
+      },
+      {
+        "ticker": "AKRA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MEDC",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SSIA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "WIFI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MAPI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "SMGR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ADMR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "UNVR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "BRIS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PGAS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "IMPC",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "INDY",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "MIKA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "JARR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TAPG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "RATU",
+        "status": "no_data"
+      },
+      {
+        "ticker": "TPIA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ARKO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "JSMR",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "JPFA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "AALI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ISAT",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PTBA",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "CMRY",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ADRO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "INTP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TINS",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "INCO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "TKIM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PTRO",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "PANI",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ICBP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "GGRM",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "INKP",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ITMG",
+        "status": "success",
+        "days": 30
+      },
+      {
+        "ticker": "ACE",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "JAS",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TPIPL",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AAV",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "LHFG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "VGI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "THANI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TPIPP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AAI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SYNEX",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "QH",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "CHG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "CKP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SIRI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PSGC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "DOHOME",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "COCOCO",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "ROJNA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BTS",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "STANLY",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "KAMART",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "EPG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SJWD",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SISB",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SAPPE",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "ERW",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "EA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "MC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "NER",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "IRPC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AWC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PRM",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "JMART",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "JTS",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "DMT",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "WHAUP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "LH",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BCPG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PTG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "THCOM",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "RAM",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "MOSHI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PLANB",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PSL",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "JMT",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AURA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "GUNKUL",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "M",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "STGT",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "UVAN",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TOA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "GFPT",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "GLOBAL",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "PR9",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BCH",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "HMPRO",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "ITC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TTW",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "ICHI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TASCO",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BJC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SPALI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SCCC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TFG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TIPH",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AEONTS",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "STECON",
+        "status": "success",
+        "days": 14
+      },
+      {
+        "ticker": "BGRIM",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "MEGA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SPRC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TLI",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "CK",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "CPAXT",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TVO",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TU",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "MBK",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "RCL",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "OR",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "STA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BTG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "OSP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "TIDLOR",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SAWAD",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "MTC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "BLA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "AMATA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "SCGP",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "CBG",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "COM7",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "HANA",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "RATCH",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "GPSC",
+        "status": "success",
+        "days": 28
+      },
+      {
+        "ticker": "EGCO",
+        "status": "success",
+        "days": 28
+      }
+    ]
+  },
+  "2025": {
+    "period": "2025-10-13 to 2025-11-15",
+    "success": 215,
+    "failed": 0,
+    "coverage": 100.0,
+    "results": [
+      {
+        "ticker": "LPKR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BBKP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SGRO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "KPIG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BKSL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TMAS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BUKA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "KRAS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "DMAS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PBSA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BIPI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MAYA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PNLF",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BANK",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "DATA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MIDI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SMDR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "DAAZ",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PWON",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MSIN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SIDO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ACES",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ELPI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SMRA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "NICL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CYBR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TOBA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "INET",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CLEO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "UDNG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SIMP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BJTM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "AVIA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "RMKE",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CMNT",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MTDL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BULL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "UANG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "APIC",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TOWR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CARE",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SGER",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "DEWA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MTEL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BJBR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ERAA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "COIN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "EMTK",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "POWR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ALII",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MBMA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BSDE",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CTRA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "HRUM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "RAJA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "HEAL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BTPS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MAPA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ABMM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ESSA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PNBN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BUVA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SSMS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "FILM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "NSSS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "KLBF",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PGEO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BFIN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ARTO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "STAA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "NISP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "VKTR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SRTG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "NCKL",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TCPI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CUAN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ARCI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BBTN",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SMSM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "HRTA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "DSNG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MYOR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "LSIP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "AUTO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CBDK",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "AKRA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MEDC",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SSIA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "WIFI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MAPI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "SMGR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ADMR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "UNVR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "BRIS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PGAS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "IMPC",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "INDY",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "MIKA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "JARR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TAPG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "RATU",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TPIA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ARKO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "JSMR",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "JPFA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "AALI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ISAT",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PTBA",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "CMRY",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ADRO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "INTP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TINS",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "INCO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "TKIM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PTRO",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "PANI",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ICBP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "GGRM",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "INKP",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ITMG",
+        "status": "success",
+        "days": 25
+      },
+      {
+        "ticker": "ACE",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "JAS",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TPIPL",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AAV",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "LHFG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "VGI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "THANI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TPIPP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AAI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SYNEX",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "QH",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "CHG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "CKP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SIRI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PSGC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "DOHOME",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "COCOCO",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "ROJNA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BTS",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "STANLY",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "KAMART",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "EPG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SJWD",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SISB",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SAPPE",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "ERW",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "EA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "MC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "NER",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "IRPC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AWC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PRM",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "JMART",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "JTS",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "DMT",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "WHAUP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "LH",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BCPG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PTG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "THCOM",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "RAM",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "MOSHI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PLANB",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PSL",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "JMT",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AURA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "GUNKUL",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "M",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "STGT",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "UVAN",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TOA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "GFPT",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "GLOBAL",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "PR9",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BCH",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "HMPRO",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "ITC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TTW",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "ICHI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TASCO",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BJC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SPALI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SCCC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TFG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TIPH",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AEONTS",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "STECON",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BGRIM",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "MEGA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SPRC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TLI",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "CK",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "CPAXT",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TVO",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TU",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "MBK",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "RCL",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "OR",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "STA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BTG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "OSP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "TIDLOR",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SAWAD",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "MTC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "BLA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "AMATA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "SCGP",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "CBG",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "COM7",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "HANA",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "RATCH",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "GPSC",
+        "status": "success",
+        "days": 23
+      },
+      {
+        "ticker": "EGCO",
+        "status": "success",
+        "days": 23
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "MORA.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 8.2,
+    "vol_max": 12.0,
+    "cum_return": 6.06,
+    "type": "强pump"
+  },
+  {
+    "ticker": "UANG.JK",
+    "market": "Indonesia",
+    "year": 2025,
+    "days_2x": 1.0,
+    "vol_max": 17.0,
+    "cum_return": 0.7,
+    "type": "爆发pump"
+  },
+  {
+    "ticker": "DEWA.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 10.0,
+    "vol_max": 6.5,
+    "cum_return": 1.2,
+    "type": "强pump"
+  },
+  {
+    "ticker": "ABCD.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 12.0,
+    "vol_max": 8.5,
+    "cum_return": 2.8,
+    "type": "强pump"
+  },
+  {
+    "ticker": "EFGH.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 6.0,
+    "vol_max": 10.2,
+    "cum_return": 1.5,
+    "type": "中等pump"
+  },
+  {
+    "ticker": "IJKL.JK",
+    "market": "Indonesia",
+    "year": 2025,
+    "days_2x": 2.5,
+    "vol_max": 15.0,
+    "cum_return": 0.95,
+    "type": "快速pump"
+  },
+  {
+    "ticker": "MNOP.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 15.0,
+    "vol_max": 5.8,
+    "cum_return": 4.2,
+    "type": "强pump"
+  },
+  {
+    "ticker": "QRST.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 7.5,
+    "vol_max": 9.3,
+    "cum_return": 1.85,
+    "type": "中等pump"
+  },
+  {
+    "ticker": "ABC.BK",
+    "market": "Thailand",
+    "year": 2024,
+    "days_2x": 9.0,
+    "vol_max": 7.2,
+    "cum_return": 2.1,
+    "type": "强pump"
+  },
+  {
+    "ticker": "DEF.BK",
+    "market": "Thailand",
+    "year": 2025,
+    "days_2x": 3.5,
+    "vol_max": 12.5,
+    "cum_return": 1.05,
+    "type": "快速pump"
+  },
+  {
+    "ticker": "GHI.BK",
+    "market": "Thailand",
+    "year": 2024,
+    "days_2x": 11.5,
+    "vol_max": 6.8,
+    "cum_return": 3.5,
+    "type": "强pump"
+  },
+  {
+    "ticker": "JKL.BK",
+    "market": "Thailand",
+    "year": 2024,
+    "days_2x": 5.0,
+    "vol_max": 8.9,
+    "cum_return": 1.35,
+    "type": "中等pump"
+  },
+  {
+    "ticker": "FAST1.JK",
+    "market": "Indonesia",
+    "year": 2025,
+    "days_2x": 1.5,
+    "vol_max": 14.0,
+    "cum_return": 0.55,
+    "type": "快速pump"
+  },
+  {
+    "ticker": "FAST2.BK",
+    "market": "Thailand",
+    "year": 2025,
+    "days_2x": 2.0,
+    "vol_max": 11.8,
+    "cum_return": 0.68,
+    "type": "快速pump"
+  },
+  {
+    "ticker": "FAST3.JK",
+    "market": "Indonesia",
+    "year": 2024,
+    "days_2x": 3.0,
+    "vol_max": 13.2,
+    "cum_return": 0.85,
+    "type": "快速pump"
+  }
+]
