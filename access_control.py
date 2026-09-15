@@ -106,6 +106,25 @@ def check_access(ip_address):
 
     data = load_access_data()
 
+    # 检查是否是第一个访问者（Railway部署场景）
+    # 如果白名单为空或只有127.0.0.1，则第一个外网访问者自动成为管理员
+    has_real_admin = False
+    for wl_ip, wl_data in data["whitelist"].items():
+        if wl_ip not in ['127.0.0.1', 'localhost', '::1'] and wl_data.get("role") == "admin":
+            has_real_admin = True
+            break
+
+    if not has_real_admin:
+        # 第一个访问者自动成为管理员
+        data["whitelist"][ip_address] = {
+            "approved_at": datetime.now().isoformat(),
+            "approved_by": "first_visitor",
+            "name": "首位访问者（管理员）",
+            "role": "admin"
+        }
+        save_access_data(data)
+        return ("granted", "admin")
+
     # 检查白名单
     if ip_address in data["whitelist"]:
         role = data["whitelist"][ip_address].get("role", "viewer")
