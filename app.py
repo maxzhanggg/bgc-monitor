@@ -22,22 +22,14 @@ import json
 import time
 from datetime import datetime, date, timedelta
 from pathlib import Path
+from file_lock_utils import atomic_json_read, atomic_json_write, safe_json_update
 
 # 访问控制 - 保护监控系统
 ACCESS_CONTROL_AVAILABLE = True
 
 # 导入访问控制模块
 try:
-    from access_control import (
-        check_access,
-        submit_request,
-        approve_request,
-        reject_request,
-        revoke_access,
-        get_pending_count,
-        get_pending_requests,
-        get_whitelist
-    )
+    from access_control import check_access
 except ImportError as e:
     ACCESS_CONTROL_AVAILABLE = False
     print(f"⚠️ 访问控制模块不可用: {e}")
@@ -62,7 +54,7 @@ st.set_page_config(
 COMPETITION_START = date(2026, 10, 13)
 COMPETITION_END = date(2026, 11, 13)
 CLEAN_SLATE_DATE = date(2026, 10, 11)
-CAPITAL = 100_000  # $100k USD paper trading capital
+CAPITAL = 1_000_000  # $1M USD 模拟交易资金 (BGC 2026 Competition)
 
 # 共享监控状态文件 — 所有 session 从同一个文件读写，保持同步
 _MONITOR_STATE_FILE = Path("data/monitor_state.json")
@@ -96,129 +88,37 @@ def get_client_ip():
     # 本地开发fallback
     return "127.0.0.1"
 
-def show_access_request_page(status, client_ip):
-    """显示访问申请页面"""
+def show_access_denied_page(client_ip):
+    """显示访问拒绝页面"""
     st.markdown("### 🔒 BGC 2026 监控系统")
     st.markdown("---")
+    st.error("❌ 仅限本机访问")
+    st.markdown(f"**您的IP:** `{client_ip}`")
+    st.markdown("**允许的IP:** `127.0.0.1` (localhost)")
 
-    if status == "pending":
-        st.info("⏳ 您的访问申请正在审批中，请等待管理员批准")
-        st.markdown(f"**您的IP:** `{client_ip}`")
-        st.markdown("请联系管理员加快审批进度")
-
-    elif status == "rejected":
-        st.error("❌ 您的访问申请已被拒绝")
-        st.markdown(f"**您的IP:** `{client_ip}`")
-        st.markdown("如有疑问请联系管理员")
-
-    elif status == "new":
-        st.warning("🔐 此系统需要访问权限")
-        st.markdown(f"**您的IP:** `{client_ip}`")
-
-        with st.form("access_request_form"):
-            st.markdown("#### 申请访问")
-            name = st.text_input("姓名", placeholder="请输入您的姓名")
-            reason = st.text_area("申请理由", placeholder="（可选）简要说明访问原因")
-
-            submitted = st.form_submit_button("提交申请")
-
-            if submitted:
-                if not name or len(name.strip()) < 2:
-                    st.error("请输入有效的姓名")
-                else:
-                    result = submit_request(
-                        ip_address=client_ip,
-                        name=name.strip(),
-                        reason=reason.strip(),
-                        device_info=st.session_state.get('user_agent', 'Unknown')
-                    )
-
-                    if result["success"]:
-                        st.success(result["message"])
-                        st.info("请等待管理员审批，刷新页面查看状态")
-                        time.sleep(2)
-                        st.rerun()
-                    else:
-                        st.error(result["message"])
+    if client_ip != "127.0.0.1":
+        st.info("💡 Railway部署访问方式：")
+        st.code("railway run streamlit run app.py", language="bash")
+        st.markdown("或使用SSH端口转发：")
+        st.code("ssh -L 8501:localhost:8501 <railway-host>", language="bash")
 
     st.stop()
 
-def show_admin_panel(client_ip):
-    """显示管理员审批面板"""
-    pending_count = get_pending_count()
-
-    if pending_count > 0:
-        # 显示待审批徽章
-        with st.expander(f"🔔 待审批访问申请 ({pending_count})", expanded=False):
-            pending_requests = get_pending_requests()
-
-            for req_ip, req_data in pending_requests.items():
-                col1, col2, col3, col4 = st.columns([3, 2, 1, 1])
-
-                with col1:
-                    st.markdown(f"**{req_data['name']}**")
-                    st.caption(f"IP: `{req_ip}`")
-                    if req_data.get('reason'):
-                        st.caption(f"理由: {req_data['reason']}")
-
-                with col2:
-                    st.caption(f"申请时间: {req_data['requested_at'][:16]}")
-
-                with col3:
-                    if st.button("✅ 批准", key=f"approve_{req_ip}"):
-                        result = approve_request(req_ip, client_ip, role="viewer")
-                        st.success(result["message"])
-                        time.sleep(1)
-                        st.rerun()
-
-                with col4:
-                    if st.button("❌ 拒绝", key=f"reject_{req_ip}"):
-                        result = reject_request(req_ip, client_ip, reason="管理员拒绝")
-                        st.warning(result["message"])
-                        time.sleep(1)
-                        st.rerun()
-
-                st.markdown("---")
-
-            # 显示已授权用户列表
-            with st.expander("👥 已授权用户", expanded=False):
-                whitelist = get_whitelist()
-                for wl_ip, wl_data in whitelist.items():
-                    col1, col2, col3 = st.columns([3, 2, 1])
-
-                    with col1:
-                        role_badge = "🔑 管理员" if wl_data['role'] == 'admin' else "👁️ 查看者"
-                        st.markdown(f"{role_badge} **{wl_data['name']}**")
-                        st.caption(f"IP: `{wl_ip}`")
-
-                    with col2:
-                        st.caption(f"批准时间: {wl_data['approved_at'][:16]}")
-
-                    with col3:
-                        if wl_data['role'] != 'admin' and wl_ip != client_ip:
-                            if st.button("🚫 撤销", key=f"revoke_{wl_ip}"):
-                                result = revoke_access(wl_ip, client_ip, reason="管理员撤销")
-                                st.warning(result["message"])
-                                time.sleep(1)
-                                st.rerun()
+# 删除管理员面板 - 不再需要审批功能
 
 def check_and_enforce_access():
-    """检查访问权限并执行访问控制"""
-    if not ACCESS_CONTROL_AVAILABLE:
-        return True  # 如果访问控制模块不可用，允许访问
-
+    """检查访问权限并执行访问控制 - 仅允许本机访问（Railway部署安全加固）"""
     client_ip = get_client_ip()
-    status, role = check_access(client_ip)
 
-    if status == "granted":
-        # 存储角色到session_state
-        st.session_state['user_role'] = role
-        st.session_state['user_ip'] = client_ip
-        return True
-    else:
-        # 显示访问申请页面
-        show_access_request_page(status, client_ip)
+    # 强制localhost-only（Railway环境通过SSH端口转发访问）
+    if client_ip != "127.0.0.1":
+        show_access_denied_page(client_ip)
         return False
+
+    # 存储到session_state
+    st.session_state['user_role'] = 'admin'
+    st.session_state['user_ip'] = client_ip
+    return True
 
 # ══════════════════════════════════════════════════════════════════════
 # 主应用逻辑开始前先检查访问权限
@@ -233,15 +133,16 @@ if not check_and_enforce_access():
 
 def _get_monitoring() -> bool:
     try:
-        return json.loads(_MONITOR_STATE_FILE.read_text(encoding="utf-8")).get("monitoring", False)
+        data = atomic_json_read(_MONITOR_STATE_FILE, default={})
+        return data.get("monitoring", False)
     except Exception:
         return False
 
 def _set_monitoring(value: bool):
     _MONITOR_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    _MONITOR_STATE_FILE.write_text(
-        json.dumps({"monitoring": value, "updated": datetime.now().isoformat()}),
-        encoding="utf-8"
+    atomic_json_write(
+        _MONITOR_STATE_FILE,
+        {"monitoring": value, "updated": datetime.now().isoformat()}
     )
 
 def _render_market_status():
@@ -350,8 +251,7 @@ with st.sidebar:
     yesterday = (date.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     if collection_status_file.exists():
-        with open(collection_status_file, 'r') as f:
-            cst = json.load(f)
+        cst = atomic_json_read(collection_status_file, default={})
 
         last_target = cst.get('target_date', '未知')
         last_run = cst.get('last_run', '')
@@ -513,10 +413,6 @@ if MODE == "TEST":
     # 标题
     st.title("📊 BGC 2026 实时监控")
     st.caption("信号检测与持仓追踪")
-
-    # 管理员面板（右上角）
-    if st.session_state.get('user_role') == 'admin':
-        show_admin_panel(st.session_state.get('user_ip'))
 
     # 市场时间状态
     _render_market_status()
@@ -790,8 +686,7 @@ elif MODE == "LIVE":
     positions_file = Path("data/positions.json")
 
     if positions_file.exists():
-        with open(positions_file, 'r', encoding='utf-8') as f:
-            portfolio = json.load(f)
+        portfolio = atomic_json_read(positions_file, default={})
 
         positions = portfolio.get('positions', [])
 

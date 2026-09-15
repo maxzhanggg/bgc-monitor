@@ -83,63 +83,18 @@ def save_access_data(data):
 
 def check_access(ip_address):
     """
-    检查IP是否有访问权限
+    检查IP是否有访问权限 - 极简版本：仅允许本机访问
 
     返回:
-        ("granted", role) - 有权限，返回角色
-        ("pending", None) - 已申请但未批准
-        ("rejected", None) - 已被拒绝
-        ("new", None) - 新IP，需要申请
+        ("granted", "admin") - 本机访问
+        ("denied", None) - 非本机访问
     """
-    # 本地IP（127.0.0.1）直接授权为管理员
+    # 仅允许本机访问
     if ip_address in ['127.0.0.1', 'localhost', '::1']:
-        data = load_access_data()
-        if ip_address not in data["whitelist"]:
-            data["whitelist"][ip_address] = {
-                "approved_at": datetime.now().isoformat(),
-                "approved_by": "auto",
-                "name": "本机管理员",
-                "role": "admin"
-            }
-            save_access_data(data)
         return ("granted", "admin")
 
-    data = load_access_data()
-
-    # 检查是否是第一个访问者（Railway部署场景）
-    # 如果白名单为空或只有127.0.0.1，则第一个外网访问者自动成为管理员
-    has_real_admin = False
-    for wl_ip, wl_data in data["whitelist"].items():
-        if wl_ip not in ['127.0.0.1', 'localhost', '::1'] and wl_data.get("role") == "admin":
-            has_real_admin = True
-            break
-
-    if not has_real_admin:
-        # 第一个访问者自动成为管理员
-        data["whitelist"][ip_address] = {
-            "approved_at": datetime.now().isoformat(),
-            "approved_by": "first_visitor",
-            "name": "首位访问者（管理员）",
-            "role": "admin"
-        }
-        save_access_data(data)
-        return ("granted", "admin")
-
-    # 检查白名单
-    if ip_address in data["whitelist"]:
-        role = data["whitelist"][ip_address].get("role", "viewer")
-        return ("granted", role)
-
-    # 检查待审批
-    if ip_address in data["pending_requests"]:
-        return ("pending", None)
-
-    # 检查已拒绝
-    if ip_address in data["rejected"]:
-        return ("rejected", None)
-
-    # 新IP - 所有非本机IP都需要申请
-    return ("new", None)
+    # 所有非本机访问拒绝
+    return ("denied", None)
 
 def is_admin(ip_address):
     """检查IP是否为管理员"""

@@ -8,14 +8,14 @@ import os
 from datetime import datetime
 
 class PositionManager:
-    def __init__(self, initial_capital=3500, max_positions=5, position_size_pct=0.20):
+    def __init__(self, initial_capital=1_000_000, max_positions=5, position_size_pct=0.20):
         """
         初始化持仓管理器
 
         Args:
-            initial_capital: 初始资金
-            max_positions: 最大持仓数量
-            position_size_pct: 单仓位资金占比（默认20%）
+            initial_capital: 初始资金 (默认 $1,000,000)
+            max_positions: 最大持仓数量 (默认 5个)
+            position_size_pct: 单仓位资金占比 (默认 20% = $200,000)
         """
         self.initial_capital = initial_capital
         self.cash = initial_capital
