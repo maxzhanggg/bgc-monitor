@@ -1,0 +1,14 @@
+{
+  "positions": {
+    "MORA.JK": {
+      "ticker": "MORA.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 0.045,
+      "peak_price": 0.045,
+      "current_price": 0.045
+    }
+  },
+  "closed_positions": [],
+  "last_update": "2026-09-14T03:44:45.605274"
+}

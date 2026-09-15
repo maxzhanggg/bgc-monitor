@@ -1,0 +1,166 @@
+{
+  "total_stocks": 215,
+  "markets": {
+    "Indonesia": 120,
+    "Thailand": 95
+  },
+  "price_stats": {
+    "min": 0.0033333333333333335,
+    "median": 0.11538461538461539,
+    "max": 6.28169014084507,
+    "below_015": 117
+  },
+  "volume_stats": {
+    "min": 5015.7692307692305,
+    "median": 1167425.923943662,
+    "max": 68501976.53521127,
+    "liquidity_trap_5k_30k": 6
+  },
+  "manipulability_tiers": {
+    "\u6613\u64cd\u7eb5": 117,
+    "\u56f0\u96be": 95,
+    "\u6781\u6613\u64cd\u7eb5": 3
+  },
+  "top20_most_manipulable": [
+    {
+      "ticker": "MAYA",
+      "market": "Indonesia",
+      "price_usd": 0.012628205128205129,
+      "volume_usd": 7763.820512820514,
+      "manipulability": 70
+    },
+    {
+      "ticker": "DAAZ",
+      "market": "Indonesia",
+      "price_usd": 0.10608974358974359,
+      "volume_usd": 28177.4358974359,
+      "manipulability": 70
+    },
+    {
+      "ticker": "CARE",
+      "market": "Indonesia",
+      "price_usd": 0.02576923076923077,
+      "volume_usd": 7534.923076923077,
+      "manipulability": 70
+    },
+    {
+      "ticker": "SGRO",
+      "market": "Indonesia",
+      "price_usd": 0.3096153846153846,
+      "volume_usd": 5015.7692307692305,
+      "manipulability": 40
+    },
+    {
+      "ticker": "MTDL",
+      "market": "Indonesia",
+      "price_usd": 0.032692307692307694,
+      "volume_usd": 31208.076923076926,
+      "manipulability": 40
+    },
+    {
+      "ticker": "ALII",
+      "market": "Indonesia",
+      "price_usd": 0.049679487179487176,
+      "volume_usd": 43549.03846153846,
+      "manipulability": 40
+    },
+    {
+      "ticker": "TPIPP",
+      "market": "Thailand",
+      "price_usd": 0.049577464788732394,
+      "volume_usd": 45194.71774647887,
+      "manipulability": 40
+    },
+    {
+      "ticker": "AAI",
+      "market": "Thailand",
+      "price_usd": 0.11492957746478874,
+      "volume_usd": 43176.743661971836,
+      "manipulability": 40
+    },
+    {
+      "ticker": "PSGC",
+      "market": "Thailand",
+      "price_usd": 0.1619718309859155,
+      "volume_usd": 5992.957746478874,
+      "manipulability": 40
+    },
+    {
+      "ticker": "RAM",
+      "market": "Thailand",
+      "price_usd": 0.49295774647887325,
+      "volume_usd": 19669.014084507042,
+      "manipulability": 40
+    },
+    {
+      "ticker": "LPKR",
+      "market": "Indonesia",
+      "price_usd": 0.00391025641025641,
+      "volume_usd": 630852.6153846154,
+      "manipulability": 30
+    },
+    {
+      "ticker": "BBKP",
+      "market": "Indonesia",
+      "price_usd": 0.0033333333333333335,
+      "volume_usd": 255441.00000000003,
+      "manipulability": 30
+    },
+    {
+      "ticker": "KPIG",
+      "market": "Indonesia",
+      "price_usd": 0.005192307692307692,
+      "volume_usd": 4242896.307692308,
+      "manipulability": 30
+    },
+    {
+      "ticker": "BKSL",
+      "market": "Indonesia",
+      "price_usd": 0.004423076923076923,
+      "volume_usd": 1042443.5961538461,
+      "manipulability": 30
+    },
+    {
+      "ticker": "TMAS",
+      "market": "Indonesia",
+      "price_usd": 0.009294871794871795,
+      "volume_usd": 78557.46794871795,
+      "manipulability": 30
+    },
+    {
+      "ticker": "BUKA",
+      "market": "Indonesia",
+      "price_usd": 0.006858974358974359,
+      "volume_usd": 523489.26923076925,
+      "manipulability": 30
+    },
+    {
+      "ticker": "KRAS",
+      "market": "Indonesia",
+      "price_usd": 0.015,
+      "volume_usd": 53791.5,
+      "manipulability": 30
+    },
+    {
+      "ticker": "DMAS",
+      "market": "Indonesia",
+      "price_usd": 0.012435897435897436,
+      "volume_usd": 2948735.3333333335,
+      "manipulability": 30
+    },
+    {
+      "ticker": "PBSA",
+      "market": "Indonesia",
+      "price_usd": 0.04807692307692308,
+      "volume_usd": 113870.19230769231,
+      "manipulability": 30
+    },
+    {
+      "ticker": "BIPI",
+      "market": "Indonesia",
+      "price_usd": 0.009230769230769232,
+      "volume_usd": 4137340.615384616,
+      "manipulability": 30
+    }
+  ]
+}

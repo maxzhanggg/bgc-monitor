@@ -1,0 +1,46 @@
+{
+  "positions": {
+    "STOCK0.JK": {
+      "ticker": "STOCK0.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 1.0,
+      "peak_price": 1.0,
+      "current_price": 1.0
+    },
+    "STOCK1.JK": {
+      "ticker": "STOCK1.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 1.0,
+      "peak_price": 1.0,
+      "current_price": 1.0
+    },
+    "STOCK2.JK": {
+      "ticker": "STOCK2.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 1.0,
+      "peak_price": 1.0,
+      "current_price": 1.0
+    },
+    "STOCK3.JK": {
+      "ticker": "STOCK3.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 1.0,
+      "peak_price": 1.0,
+      "current_price": 1.0
+    },
+    "STOCK4.JK": {
+      "ticker": "STOCK4.JK",
+      "market": "Indonesia",
+      "entry_day": 1,
+      "entry_price": 1.0,
+      "peak_price": 1.0,
+      "current_price": 1.0
+    }
+  },
+  "closed_positions": [],
+  "last_update": "2026-09-14T03:44:45.608591"
+}

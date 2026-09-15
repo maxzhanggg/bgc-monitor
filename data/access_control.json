@@ -1,0 +1,30 @@
+{
+  "whitelist": {
+    "192.168.1.100": {
+      "approved_at": "2026-09-15T18:10:13.391561",
+      "approved_by": "auto",
+      "name": "Admin (首次访问)",
+      "role": "admin"
+    },
+    "192.168.1.101": {
+      "approved_at": "2026-09-15T18:10:13.403883",
+      "approved_by": "192.168.1.100",
+      "name": "台湾测试用户",
+      "role": "viewer",
+      "original_request": {
+        "requested_at": "2026-09-15T18:10:13.398568",
+        "name": "台湾测试用户",
+        "reason": "测试访问申请",
+        "device": "Chrome/Mobile"
+      }
+    },
+    "127.0.0.1": {
+      "approved_at": "2026-09-15T18:16:23.696576",
+      "approved_by": "auto",
+      "name": "本机管理员",
+      "role": "admin"
+    }
+  },
+  "pending_requests": {},
+  "rejected": {}
+}

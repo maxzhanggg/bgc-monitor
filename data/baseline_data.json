@@ -1,0 +1,1292 @@
+{
+  "LPKR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.02,
+    "collected_date": "2026-09-14T03:35:09.531758",
+    "lookback_days": 30
+  },
+  "BBKP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.021,
+    "collected_date": "2026-09-14T03:35:09.531797",
+    "lookback_days": 30
+  },
+  "SGRO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.022,
+    "collected_date": "2026-09-14T03:35:09.531821",
+    "lookback_days": 30
+  },
+  "KPIG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.023,
+    "collected_date": "2026-09-14T03:35:09.531843",
+    "lookback_days": 30
+  },
+  "BKSL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.024,
+    "collected_date": "2026-09-14T03:35:09.531861",
+    "lookback_days": 30
+  },
+  "TMAS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.025,
+    "collected_date": "2026-09-14T03:35:09.531876",
+    "lookback_days": 30
+  },
+  "BUKA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.026000000000000002,
+    "collected_date": "2026-09-14T03:35:09.531891",
+    "lookback_days": 30
+  },
+  "KRAS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.027,
+    "collected_date": "2026-09-14T03:35:09.531907",
+    "lookback_days": 30
+  },
+  "DMAS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.028,
+    "collected_date": "2026-09-14T03:35:09.531972",
+    "lookback_days": 30
+  },
+  "PBSA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.029,
+    "collected_date": "2026-09-14T03:35:09.531987",
+    "lookback_days": 30
+  },
+  "BIPI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03,
+    "collected_date": "2026-09-14T03:35:09.532001",
+    "lookback_days": 30
+  },
+  "MAYA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.031,
+    "collected_date": "2026-09-14T03:35:09.532014",
+    "lookback_days": 30
+  },
+  "PNLF": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.032,
+    "collected_date": "2026-09-14T03:35:09.532026",
+    "lookback_days": 30
+  },
+  "BANK": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.033,
+    "collected_date": "2026-09-14T03:35:09.532041",
+    "lookback_days": 30
+  },
+  "DATA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.034,
+    "collected_date": "2026-09-14T03:35:09.532053",
+    "lookback_days": 30
+  },
+  "MIDI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.035,
+    "collected_date": "2026-09-14T03:35:09.532064",
+    "lookback_days": 30
+  },
+  "SMDR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.036000000000000004,
+    "collected_date": "2026-09-14T03:35:09.532076",
+    "lookback_days": 30
+  },
+  "DAAZ": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.037000000000000005,
+    "collected_date": "2026-09-14T03:35:09.532088",
+    "lookback_days": 30
+  },
+  "PWON": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.038000000000000006,
+    "collected_date": "2026-09-14T03:35:09.532100",
+    "lookback_days": 30
+  },
+  "MSIN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.039,
+    "collected_date": "2026-09-14T03:35:09.532112",
+    "lookback_days": 30
+  },
+  "SIDO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04,
+    "collected_date": "2026-09-14T03:35:09.532123",
+    "lookback_days": 30
+  },
+  "ACES": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.041,
+    "collected_date": "2026-09-14T03:35:09.532136",
+    "lookback_days": 30
+  },
+  "ELPI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.041999999999999996,
+    "collected_date": "2026-09-14T03:35:09.532148",
+    "lookback_days": 30
+  },
+  "SMRA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.043,
+    "collected_date": "2026-09-14T03:35:09.532159",
+    "lookback_days": 30
+  },
+  "NICL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.044,
+    "collected_date": "2026-09-14T03:35:09.532171",
+    "lookback_days": 30
+  },
+  "CYBR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.045,
+    "collected_date": "2026-09-14T03:35:09.532182",
+    "lookback_days": 30
+  },
+  "TOBA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.046,
+    "collected_date": "2026-09-14T03:35:09.532193",
+    "lookback_days": 30
+  },
+  "INET": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.047,
+    "collected_date": "2026-09-14T03:35:09.532205",
+    "lookback_days": 30
+  },
+  "CLEO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.048,
+    "collected_date": "2026-09-14T03:35:09.532215",
+    "lookback_days": 30
+  },
+  "UDNG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.049,
+    "collected_date": "2026-09-14T03:35:09.532226",
+    "lookback_days": 30
+  },
+  "SIMP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05,
+    "collected_date": "2026-09-14T03:35:09.532236",
+    "lookback_days": 30
+  },
+  "BJTM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.051000000000000004,
+    "collected_date": "2026-09-14T03:35:09.532246",
+    "lookback_days": 30
+  },
+  "AVIA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.052000000000000005,
+    "collected_date": "2026-09-14T03:35:09.532258",
+    "lookback_days": 30
+  },
+  "RMKE": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.053000000000000005,
+    "collected_date": "2026-09-14T03:35:09.532268",
+    "lookback_days": 30
+  },
+  "CMNT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.054000000000000006,
+    "collected_date": "2026-09-14T03:35:09.532279",
+    "lookback_days": 30
+  },
+  "MTDL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05500000000000001,
+    "collected_date": "2026-09-14T03:35:09.532289",
+    "lookback_days": 30
+  },
+  "BULL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05600000000000001,
+    "collected_date": "2026-09-14T03:35:09.532299",
+    "lookback_days": 30
+  },
+  "UANG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.056999999999999995,
+    "collected_date": "2026-09-14T03:35:09.532310",
+    "lookback_days": 30
+  },
+  "APIC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.057999999999999996,
+    "collected_date": "2026-09-14T03:35:09.532320",
+    "lookback_days": 30
+  },
+  "TOWR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.059,
+    "collected_date": "2026-09-14T03:35:09.532330",
+    "lookback_days": 30
+  },
+  "CARE": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06,
+    "collected_date": "2026-09-14T03:35:09.532340",
+    "lookback_days": 30
+  },
+  "SGER": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.061,
+    "collected_date": "2026-09-14T03:35:09.532350",
+    "lookback_days": 30
+  },
+  "DEWA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.062,
+    "collected_date": "2026-09-14T03:35:09.532360",
+    "lookback_days": 30
+  },
+  "MTEL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.063,
+    "collected_date": "2026-09-14T03:35:09.532370",
+    "lookback_days": 30
+  },
+  "BJBR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.064,
+    "collected_date": "2026-09-14T03:35:09.532380",
+    "lookback_days": 30
+  },
+  "ERAA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.065,
+    "collected_date": "2026-09-14T03:35:09.532390",
+    "lookback_days": 30
+  },
+  "COIN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.066,
+    "collected_date": "2026-09-14T03:35:09.532400",
+    "lookback_days": 30
+  },
+  "EMTK": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.067,
+    "collected_date": "2026-09-14T03:35:09.532410",
+    "lookback_days": 30
+  },
+  "POWR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.068,
+    "collected_date": "2026-09-14T03:35:09.532420",
+    "lookback_days": 30
+  },
+  "ALII": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.069,
+    "collected_date": "2026-09-14T03:35:09.532431",
+    "lookback_days": 30
+  },
+  "MBMA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07,
+    "collected_date": "2026-09-14T03:35:09.532448",
+    "lookback_days": 30
+  },
+  "BSDE": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07100000000000001,
+    "collected_date": "2026-09-14T03:35:09.532460",
+    "lookback_days": 30
+  },
+  "CTRA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07200000000000001,
+    "collected_date": "2026-09-14T03:35:09.532473",
+    "lookback_days": 30
+  },
+  "HRUM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.073,
+    "collected_date": "2026-09-14T03:35:09.532486",
+    "lookback_days": 30
+  },
+  "RAJA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.074,
+    "collected_date": "2026-09-14T03:35:09.532499",
+    "lookback_days": 30
+  },
+  "HEAL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.075,
+    "collected_date": "2026-09-14T03:35:09.532511",
+    "lookback_days": 30
+  },
+  "BTPS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.076,
+    "collected_date": "2026-09-14T03:35:09.532523",
+    "lookback_days": 30
+  },
+  "MAPA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.077,
+    "collected_date": "2026-09-14T03:35:09.532534",
+    "lookback_days": 30
+  },
+  "ABMM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.078,
+    "collected_date": "2026-09-14T03:35:09.532546",
+    "lookback_days": 30
+  },
+  "ESSA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.079,
+    "collected_date": "2026-09-14T03:35:09.532557",
+    "lookback_days": 30
+  },
+  "PNBN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08,
+    "collected_date": "2026-09-14T03:35:09.532567",
+    "lookback_days": 30
+  },
+  "BUVA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.081,
+    "collected_date": "2026-09-14T03:35:09.532577",
+    "lookback_days": 30
+  },
+  "SSMS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.082,
+    "collected_date": "2026-09-14T03:35:09.532587",
+    "lookback_days": 30
+  },
+  "FILM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.083,
+    "collected_date": "2026-09-14T03:35:09.532597",
+    "lookback_days": 30
+  },
+  "NSSS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.084,
+    "collected_date": "2026-09-14T03:35:09.532609",
+    "lookback_days": 30
+  },
+  "KLBF": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.085,
+    "collected_date": "2026-09-14T03:35:09.532619",
+    "lookback_days": 30
+  },
+  "PGEO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08600000000000001,
+    "collected_date": "2026-09-14T03:35:09.532737",
+    "lookback_days": 30
+  },
+  "BFIN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08700000000000001,
+    "collected_date": "2026-09-14T03:35:09.532826",
+    "lookback_days": 30
+  },
+  "ARTO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08800000000000001,
+    "collected_date": "2026-09-14T03:35:09.532849",
+    "lookback_days": 30
+  },
+  "STAA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08900000000000001,
+    "collected_date": "2026-09-14T03:35:09.532865",
+    "lookback_days": 30
+  },
+  "NISP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.09000000000000001,
+    "collected_date": "2026-09-14T03:35:09.532881",
+    "lookback_days": 30
+  },
+  "VKTR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.09100000000000001,
+    "collected_date": "2026-09-14T03:35:09.532895",
+    "lookback_days": 30
+  },
+  "SRTG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.09200000000000001,
+    "collected_date": "2026-09-14T03:35:09.532908",
+    "lookback_days": 30
+  },
+  "NCKL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.093,
+    "collected_date": "2026-09-14T03:35:09.532921",
+    "lookback_days": 30
+  },
+  "TCPI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.094,
+    "collected_date": "2026-09-14T03:35:09.532934",
+    "lookback_days": 30
+  },
+  "CUAN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.095,
+    "collected_date": "2026-09-14T03:35:09.532946",
+    "lookback_days": 30
+  },
+  "ARCI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.096,
+    "collected_date": "2026-09-14T03:35:09.532965",
+    "lookback_days": 30
+  },
+  "BBTN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.097,
+    "collected_date": "2026-09-14T03:35:09.532977",
+    "lookback_days": 30
+  },
+  "SMSM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.098,
+    "collected_date": "2026-09-14T03:35:09.532989",
+    "lookback_days": 30
+  },
+  "HRTA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.099,
+    "collected_date": "2026-09-14T03:35:09.533001",
+    "lookback_days": 30
+  },
+  "DSNG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.02,
+    "collected_date": "2026-09-14T03:35:09.533013",
+    "lookback_days": 30
+  },
+  "MYOR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.021,
+    "collected_date": "2026-09-14T03:35:09.533024",
+    "lookback_days": 30
+  },
+  "LSIP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.022000000000000002,
+    "collected_date": "2026-09-14T03:35:09.533035",
+    "lookback_days": 30
+  },
+  "AUTO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.023000000000000003,
+    "collected_date": "2026-09-14T03:35:09.533047",
+    "lookback_days": 30
+  },
+  "CBDK": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.024000000000000004,
+    "collected_date": "2026-09-14T03:35:09.533058",
+    "lookback_days": 30
+  },
+  "AKRA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.025000000000000005,
+    "collected_date": "2026-09-14T03:35:09.533069",
+    "lookback_days": 30
+  },
+  "MEDC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.026000000000000006,
+    "collected_date": "2026-09-14T03:35:09.533083",
+    "lookback_days": 30
+  },
+  "SSIA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.027000000000000007,
+    "collected_date": "2026-09-14T03:35:09.533093",
+    "lookback_days": 30
+  },
+  "WIFI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.027999999999999994,
+    "collected_date": "2026-09-14T03:35:09.533104",
+    "lookback_days": 30
+  },
+  "MAPI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.028999999999999995,
+    "collected_date": "2026-09-14T03:35:09.533115",
+    "lookback_days": 30
+  },
+  "SMGR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.029999999999999995,
+    "collected_date": "2026-09-14T03:35:09.533125",
+    "lookback_days": 30
+  },
+  "ADMR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.030999999999999996,
+    "collected_date": "2026-09-14T03:35:09.533136",
+    "lookback_days": 30
+  },
+  "UNVR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.032,
+    "collected_date": "2026-09-14T03:35:09.533147",
+    "lookback_days": 30
+  },
+  "BRIS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.033,
+    "collected_date": "2026-09-14T03:35:09.533157",
+    "lookback_days": 30
+  },
+  "PGAS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.034,
+    "collected_date": "2026-09-14T03:35:09.533168",
+    "lookback_days": 30
+  },
+  "IMPC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.035,
+    "collected_date": "2026-09-14T03:35:09.533178",
+    "lookback_days": 30
+  },
+  "INDY": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.036000000000000004,
+    "collected_date": "2026-09-14T03:35:09.533192",
+    "lookback_days": 30
+  },
+  "MIKA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.037000000000000005,
+    "collected_date": "2026-09-14T03:35:09.533203",
+    "lookback_days": 30
+  },
+  "JARR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.038000000000000006,
+    "collected_date": "2026-09-14T03:35:09.533214",
+    "lookback_days": 30
+  },
+  "TAPG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03900000000000001,
+    "collected_date": "2026-09-14T03:35:09.533225",
+    "lookback_days": 30
+  },
+  "RATU": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04000000000000001,
+    "collected_date": "2026-09-14T03:35:09.533253",
+    "lookback_days": 30
+  },
+  "TPIA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04100000000000001,
+    "collected_date": "2026-09-14T03:35:09.533266",
+    "lookback_days": 30
+  },
+  "ARKO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04200000000000001,
+    "collected_date": "2026-09-14T03:35:09.533277",
+    "lookback_days": 30
+  },
+  "JSMR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04300000000000001,
+    "collected_date": "2026-09-14T03:35:09.533288",
+    "lookback_days": 30
+  },
+  "JPFA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.04400000000000001,
+    "collected_date": "2026-09-14T03:35:09.533298",
+    "lookback_days": 30
+  },
+  "AALI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.045,
+    "collected_date": "2026-09-14T03:35:09.533309",
+    "lookback_days": 30
+  },
+  "ISAT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.046,
+    "collected_date": "2026-09-14T03:35:09.533319",
+    "lookback_days": 30
+  },
+  "PTBA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.047,
+    "collected_date": "2026-09-14T03:35:09.533330",
+    "lookback_days": 30
+  },
+  "CMRY": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.048,
+    "collected_date": "2026-09-14T03:35:09.533341",
+    "lookback_days": 30
+  },
+  "ADRO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.049,
+    "collected_date": "2026-09-14T03:35:09.533354",
+    "lookback_days": 30
+  },
+  "INTP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05,
+    "collected_date": "2026-09-14T03:35:09.533366",
+    "lookback_days": 30
+  },
+  "TINS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.051000000000000004,
+    "collected_date": "2026-09-14T03:35:09.533377",
+    "lookback_days": 30
+  },
+  "INCO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.052000000000000005,
+    "collected_date": "2026-09-14T03:35:09.533387",
+    "lookback_days": 30
+  },
+  "TKIM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.053000000000000005,
+    "collected_date": "2026-09-14T03:35:09.533398",
+    "lookback_days": 30
+  },
+  "PTRO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.054000000000000006,
+    "collected_date": "2026-09-14T03:35:09.533408",
+    "lookback_days": 30
+  },
+  "PANI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05500000000000001,
+    "collected_date": "2026-09-14T03:35:09.533419",
+    "lookback_days": 30
+  },
+  "ICBP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05600000000000001,
+    "collected_date": "2026-09-14T03:35:09.533430",
+    "lookback_days": 30
+  },
+  "GGRM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05700000000000001,
+    "collected_date": "2026-09-14T03:35:09.533442",
+    "lookback_days": 30
+  },
+  "INKP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05800000000000001,
+    "collected_date": "2026-09-14T03:35:09.533454",
+    "lookback_days": 30
+  },
+  "ITMG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05900000000000001,
+    "collected_date": "2026-09-14T03:35:09.533465",
+    "lookback_days": 30
+  },
+  "ACE": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06,
+    "collected_date": "2026-09-14T03:35:09.533477",
+    "lookback_days": 30
+  },
+  "JAS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.061,
+    "collected_date": "2026-09-14T03:35:09.533488",
+    "lookback_days": 30
+  },
+  "TPIPL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.062,
+    "collected_date": "2026-09-14T03:35:09.533499",
+    "lookback_days": 30
+  },
+  "AAV": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.063,
+    "collected_date": "2026-09-14T03:35:09.533509",
+    "lookback_days": 30
+  },
+  "LHFG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.064,
+    "collected_date": "2026-09-14T03:35:09.533519",
+    "lookback_days": 30
+  },
+  "VGI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.065,
+    "collected_date": "2026-09-14T03:35:09.533529",
+    "lookback_days": 30
+  },
+  "THANI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.066,
+    "collected_date": "2026-09-14T03:35:09.533539",
+    "lookback_days": 30
+  },
+  "TPIPP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.067,
+    "collected_date": "2026-09-14T03:35:09.533549",
+    "lookback_days": 30
+  },
+  "AAI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.068,
+    "collected_date": "2026-09-14T03:35:09.533560",
+    "lookback_days": 30
+  },
+  "SYNEX": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.069,
+    "collected_date": "2026-09-14T03:35:09.533570",
+    "lookback_days": 30
+  },
+  "QH": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07,
+    "collected_date": "2026-09-14T03:35:09.533579",
+    "lookback_days": 30
+  },
+  "CHG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07100000000000001,
+    "collected_date": "2026-09-14T03:35:09.533590",
+    "lookback_days": 30
+  },
+  "CKP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07200000000000001,
+    "collected_date": "2026-09-14T03:35:09.533599",
+    "lookback_days": 30
+  },
+  "SIRI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07300000000000001,
+    "collected_date": "2026-09-14T03:35:09.533608",
+    "lookback_days": 30
+  },
+  "PSGC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07400000000000001,
+    "collected_date": "2026-09-14T03:35:09.533618",
+    "lookback_days": 30
+  },
+  "DOHOME": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07500000000000001,
+    "collected_date": "2026-09-14T03:35:09.533627",
+    "lookback_days": 30
+  },
+  "COCOCO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07600000000000001,
+    "collected_date": "2026-09-14T03:35:09.533636",
+    "lookback_days": 30
+  },
+  "ROJNA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07700000000000001,
+    "collected_date": "2026-09-14T03:35:09.533646",
+    "lookback_days": 30
+  },
+  "BTS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07800000000000001,
+    "collected_date": "2026-09-14T03:35:09.533655",
+    "lookback_days": 30
+  },
+  "STANLY": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.07900000000000001,
+    "collected_date": "2026-09-14T03:35:09.533664",
+    "lookback_days": 30
+  },
+  "KAMART": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08000000000000002,
+    "collected_date": "2026-09-14T03:35:09.533676",
+    "lookback_days": 30
+  },
+  "EPG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08100000000000002,
+    "collected_date": "2026-09-14T03:35:09.533685",
+    "lookback_days": 30
+  },
+  "SJWD": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08200000000000002,
+    "collected_date": "2026-09-14T03:35:09.533695",
+    "lookback_days": 30
+  },
+  "SISB": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08300000000000002,
+    "collected_date": "2026-09-14T03:35:09.533704",
+    "lookback_days": 30
+  },
+  "SAPPE": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08400000000000002,
+    "collected_date": "2026-09-14T03:35:09.533713",
+    "lookback_days": 30
+  },
+  "ERW": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.08499999999999999,
+    "collected_date": "2026-09-14T03:35:09.533723",
+    "lookback_days": 30
+  },
+  "EA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.086,
+    "collected_date": "2026-09-14T03:35:09.533732",
+    "lookback_days": 30
+  },
+  "MC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.087,
+    "collected_date": "2026-09-14T03:35:09.533742",
+    "lookback_days": 30
+  },
+  "NER": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.088,
+    "collected_date": "2026-09-14T03:35:09.533751",
+    "lookback_days": 30
+  },
+  "IRPC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.089,
+    "collected_date": "2026-09-14T03:35:09.533760",
+    "lookback_days": 30
+  },
+  "AWC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.09,
+    "collected_date": "2026-09-14T03:35:09.533774",
+    "lookback_days": 30
+  },
+  "PRM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.091,
+    "collected_date": "2026-09-14T03:35:09.533786",
+    "lookback_days": 30
+  },
+  "JMART": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.092,
+    "collected_date": "2026-09-14T03:35:09.533797",
+    "lookback_days": 30
+  },
+  "JTS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.093,
+    "collected_date": "2026-09-14T03:35:09.533807",
+    "lookback_days": 30
+  },
+  "DMT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.094,
+    "collected_date": "2026-09-14T03:35:09.533817",
+    "lookback_days": 30
+  },
+  "WHAUP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.095,
+    "collected_date": "2026-09-14T03:35:09.533828",
+    "lookback_days": 30
+  },
+  "LH": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.096,
+    "collected_date": "2026-09-14T03:35:09.533838",
+    "lookback_days": 30
+  },
+  "BCPG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.097,
+    "collected_date": "2026-09-14T03:35:09.533848",
+    "lookback_days": 30
+  },
+  "PTG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.098,
+    "collected_date": "2026-09-14T03:35:09.533857",
+    "lookback_days": 30
+  },
+  "THCOM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.099,
+    "collected_date": "2026-09-14T03:35:09.533867",
+    "lookback_days": 30
+  },
+  "RAM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.02,
+    "collected_date": "2026-09-14T03:35:09.533879",
+    "lookback_days": 30
+  },
+  "MOSHI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.021,
+    "collected_date": "2026-09-14T03:35:09.533891",
+    "lookback_days": 30
+  },
+  "PLANB": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.022000000000000002,
+    "collected_date": "2026-09-14T03:35:09.533904",
+    "lookback_days": 30
+  },
+  "PSL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.023000000000000003,
+    "collected_date": "2026-09-14T03:35:09.533914",
+    "lookback_days": 30
+  },
+  "JMT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.024000000000000004,
+    "collected_date": "2026-09-14T03:35:09.533924",
+    "lookback_days": 30
+  },
+  "AURA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.025000000000000005,
+    "collected_date": "2026-09-14T03:35:09.533934",
+    "lookback_days": 30
+  },
+  "GUNKUL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.026000000000000006,
+    "collected_date": "2026-09-14T03:35:09.533945",
+    "lookback_days": 30
+  },
+  "M": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.027000000000000007,
+    "collected_date": "2026-09-14T03:35:09.533956",
+    "lookback_days": 30
+  },
+  "STGT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.028000000000000008,
+    "collected_date": "2026-09-14T03:35:09.533966",
+    "lookback_days": 30
+  },
+  "UVAN": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.02900000000000001,
+    "collected_date": "2026-09-14T03:35:09.533977",
+    "lookback_days": 30
+  },
+  "TOA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03000000000000001,
+    "collected_date": "2026-09-14T03:35:09.533987",
+    "lookback_days": 30
+  },
+  "GFPT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03100000000000001,
+    "collected_date": "2026-09-14T03:35:09.533999",
+    "lookback_days": 30
+  },
+  "GLOBAL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.032000000000000015,
+    "collected_date": "2026-09-14T03:35:09.534008",
+    "lookback_days": 30
+  },
+  "PR9": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.033000000000000015,
+    "collected_date": "2026-09-14T03:35:09.534018",
+    "lookback_days": 30
+  },
+  "BCH": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.034000000000000016,
+    "collected_date": "2026-09-14T03:35:09.534027",
+    "lookback_days": 30
+  },
+  "HMPRO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03500000000000002,
+    "collected_date": "2026-09-14T03:35:09.534036",
+    "lookback_days": 30
+  },
+  "AP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03599999999999999,
+    "collected_date": "2026-09-14T03:35:09.534046",
+    "lookback_days": 30
+  },
+  "ITC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03699999999999999,
+    "collected_date": "2026-09-14T03:35:09.534055",
+    "lookback_days": 30
+  },
+  "TTW": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03799999999999999,
+    "collected_date": "2026-09-14T03:35:09.534065",
+    "lookback_days": 30
+  },
+  "ICHI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.03899999999999999,
+    "collected_date": "2026-09-14T03:35:09.534074",
+    "lookback_days": 30
+  },
+  "TASCO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.039999999999999994,
+    "collected_date": "2026-09-14T03:35:09.534084",
+    "lookback_days": 30
+  },
+  "BJC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.040999999999999995,
+    "collected_date": "2026-09-14T03:35:09.534093",
+    "lookback_days": 30
+  },
+  "BA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.041999999999999996,
+    "collected_date": "2026-09-14T03:35:09.534102",
+    "lookback_days": 30
+  },
+  "SPALI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.043,
+    "collected_date": "2026-09-14T03:35:09.534112",
+    "lookback_days": 30
+  },
+  "SCCC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.044,
+    "collected_date": "2026-09-14T03:35:09.534121",
+    "lookback_days": 30
+  },
+  "TFG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.045,
+    "collected_date": "2026-09-14T03:35:09.534131",
+    "lookback_days": 30
+  },
+  "TIPH": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.046,
+    "collected_date": "2026-09-14T03:35:09.534140",
+    "lookback_days": 30
+  },
+  "AEONTS": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.047,
+    "collected_date": "2026-09-14T03:35:09.534149",
+    "lookback_days": 30
+  },
+  "STECON": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.048,
+    "collected_date": "2026-09-14T03:35:09.534158",
+    "lookback_days": 30
+  },
+  "BGRIM": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.049,
+    "collected_date": "2026-09-14T03:35:09.534168",
+    "lookback_days": 30
+  },
+  "MEGA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05,
+    "collected_date": "2026-09-14T03:35:09.534177",
+    "lookback_days": 30
+  },
+  "SPRC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.051000000000000004,
+    "collected_date": "2026-09-14T03:35:09.534186",
+    "lookback_days": 30
+  },
+  "TLI": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.052000000000000005,
+    "collected_date": "2026-09-14T03:35:09.534197",
+    "lookback_days": 30
+  },
+  "CK": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.053000000000000005,
+    "collected_date": "2026-09-14T03:35:09.534207",
+    "lookback_days": 30
+  },
+  "CPAXT": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.054000000000000006,
+    "collected_date": "2026-09-14T03:35:09.534216",
+    "lookback_days": 30
+  },
+  "TVO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05500000000000001,
+    "collected_date": "2026-09-14T03:35:09.534226",
+    "lookback_days": 30
+  },
+  "TU": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05600000000000001,
+    "collected_date": "2026-09-14T03:35:09.534236",
+    "lookback_days": 30
+  },
+  "MBK": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05700000000000001,
+    "collected_date": "2026-09-14T03:35:09.534246",
+    "lookback_days": 30
+  },
+  "RCL": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05800000000000001,
+    "collected_date": "2026-09-14T03:35:09.534256",
+    "lookback_days": 30
+  },
+  "OR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.05900000000000001,
+    "collected_date": "2026-09-14T03:35:09.534265",
+    "lookback_days": 30
+  },
+  "STA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06000000000000001,
+    "collected_date": "2026-09-14T03:35:09.534278",
+    "lookback_days": 30
+  },
+  "BTG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06100000000000001,
+    "collected_date": "2026-09-14T03:35:09.534288",
+    "lookback_days": 30
+  },
+  "OSP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06200000000000001,
+    "collected_date": "2026-09-14T03:35:09.534299",
+    "lookback_days": 30
+  },
+  "TIDLOR": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06300000000000001,
+    "collected_date": "2026-09-14T03:35:09.534308",
+    "lookback_days": 30
+  },
+  "SAWAD": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06400000000000002,
+    "collected_date": "2026-09-14T03:35:09.534320",
+    "lookback_days": 30
+  },
+  "MTC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06500000000000002,
+    "collected_date": "2026-09-14T03:35:09.534330",
+    "lookback_days": 30
+  },
+  "BLA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06600000000000002,
+    "collected_date": "2026-09-14T03:35:09.534339",
+    "lookback_days": 30
+  },
+  "AMATA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06700000000000002,
+    "collected_date": "2026-09-14T03:35:09.534348",
+    "lookback_days": 30
+  },
+  "SCGP": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06800000000000002,
+    "collected_date": "2026-09-14T03:35:09.534358",
+    "lookback_days": 30
+  },
+  "CBG": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06899999999999999,
+    "collected_date": "2026-09-14T03:35:09.534367",
+    "lookback_days": 30
+  },
+  "COM7": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.06999999999999999,
+    "collected_date": "2026-09-14T03:35:09.534377",
+    "lookback_days": 30
+  },
+  "HANA": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.071,
+    "collected_date": "2026-09-14T03:35:09.534395",
+    "lookback_days": 30
+  },
+  "RATCH": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.072,
+    "collected_date": "2026-09-14T03:35:09.534405",
+    "lookback_days": 30
+  },
+  "GPSC": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.073,
+    "collected_date": "2026-09-14T03:35:09.534414",
+    "lookback_days": 30
+  },
+  "EGCO": {
+    "avg_volume": 1000000.0,
+    "volatility": 0.074,
+    "collected_date": "2026-09-14T03:35:09.534424",
+    "lookback_days": 30
+  }
+}
