@@ -1,0 +1,46 @@
+{
+  "_comment": "Liquidity classification for position sizing limits",
+  "_tiers": {
+    "HIGH": "Large cap, high liquidity stocks (e.g., BBCA, BBRI, TLKM)",
+    "MEDIUM": "Mid cap stocks with decent liquidity",
+    "LOW": "Small cap stocks, lower liquidity, higher risk"
+  },
+  "_default": "MEDIUM",
+
+  "BBCA.JK": "HIGH",
+  "BBRI.JK": "HIGH",
+  "BMRI.JK": "HIGH",
+  "BBNI.JK": "HIGH",
+  "TLKM.JK": "HIGH",
+  "ASII.JK": "HIGH",
+  "UNVR.JK": "HIGH",
+  "ICBP.JK": "HIGH",
+  "HMSP.JK": "HIGH",
+  "GGRM.JK": "HIGH",
+
+  "ADRO.JK": "MEDIUM",
+  "PTBA.JK": "MEDIUM",
+  "INDF.JK": "MEDIUM",
+  "KLBF.JK": "MEDIUM",
+  "MNCN.JK": "MEDIUM",
+
+  "LPKR.JK": "LOW",
+  "BBKP.JK": "LOW",
+  "SGRO.JK": "LOW",
+  "KPIG.JK": "LOW",
+  "BKSL.JK": "LOW",
+  "TMAS.JK": "LOW",
+  "BUKA.JK": "LOW",
+  "KRAS.JK": "LOW",
+  "DMAS.JK": "LOW",
+  "PBSA.JK": "LOW",
+  "BIPI.JK": "LOW",
+  "MAYA.JK": "LOW",
+  "PNLF.JK": "LOW",
+  "BANK.JK": "LOW",
+  "DATA.JK": "LOW",
+  "MIDI.JK": "LOW",
+  "SMDR.JK": "LOW",
+  "DAAZ.JK": "LOW",
+  "PWON.JK": "LOW"
+}
